@@ -23,6 +23,12 @@ A few inputs have to be placed in `data/raw/` by hand. `DATA.md` lists them toge
 - `tests/` checks the derived data, for example complete codes, contiguous units and matching totals.
 - `paper/` has the paper and the German summary as PDF.
 
+## Citation
+
+Kicker, T. (2026). *Municipal mergers in Vorarlberg: What the evidence says for and against*. Zenodo. https://doi.org/10.5281/zenodo.24444247
+
+The code itself can be cited with `CITATION.cff`.
+
 ## Licence
 
 The code is under the MIT licence (`LICENSE`). The paper and the German summary are under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Data keep the licence of their source, see `DATA.md`.

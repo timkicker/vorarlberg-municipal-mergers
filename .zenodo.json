@@ -1,0 +1,10 @@
+{
+  "title": "Municipal mergers in Vorarlberg: code and result files",
+  "upload_type": "software",
+  "description": "<p>Code, data description and result files for the report <i>Municipal mergers in Vorarlberg: What the evidence says for and against</i> (https://doi.org/10.5281/zenodo.24444247).</p>",
+  "creators": [{"name": "Kicker, Tim", "orcid": "0009-0009-4026-8646"}],
+  "license": "MIT",
+  "language": "eng",
+  "keywords": ["municipal mergers", "Vorarlberg", "local government", "public finance"],
+  "related_identifiers": [{"identifier": "10.5281/zenodo.24444247", "relation": "isSupplementTo", "resource_type": "publication-report", "scheme": "doi"}]
+}

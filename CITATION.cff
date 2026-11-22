@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "Municipal mergers in Vorarlberg: code and result files"
+type: software
+authors:
+  - family-names: Kicker
+    given-names: Tim
+    orcid: "https://orcid.org/0009-0009-4026-8646"
+license: MIT
+repository-code: "https://github.com/timkicker/vorarlberg-municipal-mergers"
+version: "1.0"
+date-released: "2026-11-22"
+preferred-citation:
+  type: report
+  title: "Municipal mergers in Vorarlberg: What the evidence says for and against"
+  authors:
+    - family-names: Kicker
+      given-names: Tim
+      orcid: "https://orcid.org/0009-0009-4026-8646"
+  year: 2026
+  publisher:
+    name: Zenodo
+  doi: "10.5281/zenodo.24444247"
