@@ -1,0 +1,11 @@
+Names of the Styrian merged municipalities 2015 (styria_names.py)
+
+New municipalities with at least two predecessors (area share from 95%): 125
+
+Class | count | share | examples
+  same | 89 | 71% | Deutschlandsberg <- Deutschlandsberg, Freiland bei Deutschlandsberg, Bad Gams, Kloster, Osterwitz, Trahütten; Eibiswald <- Aibl, Eibiswald, Großradl, Pitschgau, Sankt Oswald ob Eibiswald, Soboth; Groß Sankt Florian <- Groß Sankt Florian, Unterbergla
+  double name | 10 | 8% | Fernitz-Mellach <- Fernitz, Mellach; Raaba-Grambach <- Grambach, Raaba; Seiersberg-Pirka <- Pirka, Seiersberg
+  with part | 11 | 9% | Dobl-Zwaring <- Dobl, Zwaring-Pöls; Gratwein-Straßengel <- Eisbach, Gratwein, Gschnaidt, Judendorf-Straßengel; Ehrenhausen an der Weinstraße <- Berghausen, Ehrenhausen, Ratsch an der Weinstraße, Retznei
+  new | 15 | 12% | Sankt Veit in der Südsteiermark <- Sankt Nikolai ob Draßling, Sankt Veit am Vogau, Weinburg am Saßbach; Schwarzautal <- Breitenfeld am Tannenriegel, Hainsdorf im Schwarzautal, Wolfsberg im Schwarzautal, Mitterlabill, Schwarzau im Schwarzautal; Sölk <- Großsölk, Kleinsölk, Sankt Nikolai im Sölktal
+
+Predecessor names in total: 372, of which not contained in the new name: 252 (68%)

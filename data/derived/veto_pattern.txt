@@ -1,0 +1,13 @@
+Members under the rejection pattern of Strebel 2019 (veto_pattern.py)
+
+large: at least 2,230 inhabitants, share of the unit under 50%
+
+partition | units with merger | of which with such a member | share | such members | their inhabitants | members under 2.230 | largest
+  Threshold 2000 | 23 | 0 | 0% | 0 | 0 | 54 | 
+  Threshold 3500 | 24 | 6 | 25% | 11 | 30,457 | 55 | Ludesch 3,727 (43%), Göfis 3,317 (33%), Klaus 3,055 (47%)
+  Threshold 5000 | 17 | 14 | 82% | 23 | 75,900 | 55 | Mittelberg 5,108 (37%), Nüziders 4,999 (17%), Mäder 4,217 (38%)
+  official planning region | 13 | 10 | 77% | 33 | 166,782 | 55 | Hard 13,787 (34%), Götzis 12,231 (43%), Rankweil 12,172 (39%)
+  official region | 7 | 5 | 71% | 40 | 349,747 | 55 | Dornbirn 51,876 (19%), Feldkirch 36,384 (13%), Bregenz 29,643 (11%)
+  official district | 4 | 4 | 100% | 40 | 302,979 | 55 | Feldkirch 36,384 (32%), Bregenz 29,643 (22%), Lustenau 24,223 (26%)
+
+Vorarlberg municipalities with at least 2,230 inhabitants: 41 of 96

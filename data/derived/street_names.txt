@@ -1,0 +1,16 @@
+Duplicate street names per partition (street_names.py)
+© Österreichisches Adressregister, reference date data of 01.04.2026
+
+streets 7,250, addresses 114,185, municipalities with streets 96 of 96
+
+1. today
+  municipalities with a name more than once: 3, duplicate names together 5
+  Gaschurn 3, Bludenz 1, Au 1
+  streets with delivery place unlike the municipality name: 226
+
+2. per partition (only units with a merger)
+  partition | units | duplicate names | addresses to rename | share of the addresses of the units | most frequent names (municipalities)
+  Threshold 2000 | 23 | 94 | 1,239 | 2.9% | gschwend 8, dorf 8, dorfstraße 7, halden 7, moos 6
+  Threshold 3500 | 24 | 153 | 2,029 | 3.7% | gschwend 10, dorfstraße 9, dorf 9, halden 9, walgaustraße 7
+  Threshold 5000 | 17 | 254 | 3,626 | 5.6% | gschwend 12, halden 12, dorfstraße 10, dorf 9, mühleweg 8
+  official planning region | 13 | 404 | 6,020 | 7.7% | dorfstraße 12, kirchstraße 12, gschwend 12, halden 12, bahnhofstraße 11

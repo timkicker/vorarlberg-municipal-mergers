@@ -1,0 +1,10 @@
+Vorarlberg by size, mean 2016 to 2019 (overview.py)
+municipalities 96, population 385,124
+
+Class | municipalities | share of population | core administration net per inhabitant (total) | median per municipality | without complete data
+under 1,000 | 34 | 4.9% | 425 | 420 | 0
+1,000 to 1,999 | 18 | 7.0% | 311 | 255 | 0
+2,000 to 3,499 | 19 | 12.9% | 253 | 241 | 0
+3,500 to 9,999 | 15 | 20.9% | 267 | 254 | 0
+from 10,000 | 10 | 54.3% | 237 | 254 | 0
+all | 96 | 100% | 260 | 275 | 0

@@ -1,0 +1,22 @@
+Money balance per partition, m EUR per year (balance.py)
+Ranges: savings with factor 0.16 and 0.57; state guidelines both ends; structural fund open, sign minus
+
+Partition | Vorarlberg total | merged units | same with inflow | unchanged municipalities | population in merged units | one-off m | years to break even
+Threshold 2000 | +1.3 to +3.6 | -6.3 to +1.2 | -6.2 to +1.3 | +2.3 to +7.5 | 126,110 | 3.5 to 14.5 | 1 to 4 (E 0.57), 4 to 16 (E 0.16)
+Threshold 3500 | +1.6 to +4.3 | -8.1 to +0.0 | -7.9 to +0.2 | +4.1 to +9.5 | 164,845 | 4.6 to 18.9 | 1 to 5 (E 0.57), 4 to 18 (E 0.16)
+Threshold 5000 | +7.2 to +10.2 | +0.7 to +5.8 | +3.4 to +8.5 | +1.7 to +3.8 | 193,581 | 5.4 to 22.2 | 1 to 5 (E 0.57), 5 to 19 (E 0.16)
+Planning regions | +21.9 to +24.6 | +15.0 to +18.3 | +26.9 to +30.2 | -5.6 to -5.0 | 243,358 | 6.8 to 27.9 | 2 to 7 (E 0.57), 6 to 26 (E 0.16)
+Regions | +58.8 to +61.2 | -17.3 to -14.3 | +44.2 to +47.2 | +13.9 to +14.5 | 400,642 | 11.2 to 46.0 | never
+Districts | +75.7 to +76.5 | -16.3 to -15.5 | +60.5 to +61.3 | +15.2 | 405,654 | 11.4 to 46.5 | never
+
+one-off: core administration net 28 EUR per inhabitant to 115 EUR (28 plus three times the upper bound of the extraordinary balance 2014-16, Styria),
+per inhabitant of the merged units. Unchanged municipalities: FAG with inflow plus the balance of the state guidelines of the merged units with reversed sign.
+
+Variant: the state grants the merged units lose shared by population instead of going entirely to the unchanged municipalities
+Partition | share of population merged | merged units with inflow | unchanged municipalities
+Threshold 2000 | 31% | -3.1 to +2.8 | +0.8 to +4.4
+Threshold 3500 | 41% | -2.7 to +3.2 | +1.1 to +4.3
+Threshold 5000 | 48% | +10.0 to +14.1 | -3.9 to -2.8
+Planning regions | 60% | +34.8 to +37.8 | -13.2 to -12.9
+Regions | 99% | +59.2 to +61.6 | -0.5
+Districts | 100% | +75.7 to +76.5 | +0.0

@@ -1,0 +1,20 @@
+Shares of joint federal taxes under FAG 2024 per partition (fag.py)
+
+Population 1.1.2024: Austria 9,158,750, Vorarlberg 409,973, Vienna 2,005,760
+Share of Vorarlberg: population 4.4763%, graded key 4.2628%
+Pot of the uniform key 12,589.3 m; model Vorarlberg 583.3 m, advances without land transfer tax by population 599.5 m, deviation -2.7%
+Share of Vienna as a municipality in the pot 26.9% (the ceiling in § 12 counts state and municipality together and applies only above 30.4 % of both; not applied)
+Pot for distribution in Vorarlberg without land transfer tax after deducting 12.8 %: 522.7 m; overnight stays 2023 9,313,318
+
+Today: extra share 36.7 m, overnight stay amount 7.1 m, municipalities over 10,000: 10
+
+Partition | Units | New over 10,000 | Net inflow m | Savings m | Extra share +m | Overnight stays +m | Winners m | Losers m | Unchanged m | Unchanged % max | With inflow m | With inflow % max
+Threshold 2000 | 51 | 2 | 0.4 | 3.2 | 3.1 | -0.0 | 3.6 | -0.8 | -2.8 | -0.8% | -2.5 | -0.7%
+Threshold 3500 | 40 | 2 | 0.6 | 3.7 | 4.6 | -0.0 | 5.2 | -1.6 | -3.6 | -1.2% | -3.2 | -1.0%
+Threshold 5000 | 27 | 8 | 6.1 | 4.1 | 19.5 | -6.6 | 17.1 | -3.7 | -13.4 | -4.8% | -10.0 | -3.6%
+official planning region | 19 | 7 | 20.8 | 3.8 | 28.8 | -3.2 | 30.0 | -2.9 | -27.1 | -11.0% | -18.2 | -7.4%
+official region | 8 | 3 | 62.1 | -3.3 | 31.7 | -4.4 | 14.7 | -13.5 | -1.3 | -18.7% | -0.7 | -10.5%
+official district | 4 | 0 | 76.8 | -1.1 | 35.0 | -7.1 | 25.5 | -25.5 | 0.0 | 0.0% | 0.0 | 0.0%
+
+Winners, losers and unchanged: shift inside Vorarlberg without inflow from outside,
+per unit against the sum of its predecessors. Savings: E_main from pareto_candidates.csv.

@@ -1,0 +1,49 @@
+Units with a change of area after 2015 (dropped): ['61058', '61761', '62252', '62267', '62347']
+2005: municipalities without assignment via 2011: [], eligible voters 0
+2010: municipalities without assignment via 2011: [], eligible voters 0
+Units 279, merged 122, unchanged 157, dropped {'election missing': 1, 'changed after 2015': 5, 'merger 2013': 1}
+
+A, share with more than one list
+  Mean merged: 2005: 0.977  2010: 0.984  2015: 1.000  2020: 1.000  2025: 0.992
+  Mean unchanged: 2005: 1.000  2010: 1.000  2015: 1.000  2020: 0.994  2025: 0.994
+  Effect +0.021  95 % [+0.008, +0.038]
+  Event study (reference 2010): 2005: -0.006 [-0.024, +0.006]  2015: +0.016 [+0.005, +0.031]  2020: +0.023 [+0.008, +0.042]  2025: +0.015 [-0.007, +0.037]
+
+L, lists on the ballot
+  Mean merged: 2005: 3.147  2010: 3.269  2015: 3.992  2020: 3.910  2025: 4.025
+  Mean unchanged: 2005: 3.089  2010: 3.255  2015: 3.369  2020: 3.459  2025: 3.452
+  Effect +0.512  95 % [+0.342, +0.678]
+  Event study (reference 2010): 2005: +0.043 [-0.128, +0.216]  2015: +0.608 [+0.404, +0.805]  2020: +0.437 [+0.218, +0.659]  2025: +0.558 [+0.308, +0.794]
+
+Before as union of the predecessors' lists, parties counted once by the state's assignment
+
+U, lists on a joint ballot of the predecessors
+  Mean merged: 2005: 3.959  2010: 4.197  2015: 3.992  2020: 3.910  2025: 4.025
+  Mean unchanged: 2005: 3.089  2010: 3.255  2015: 3.369  2020: 3.459  2025: 3.452
+  Effect -0.357  95 % [-0.558, -0.166]
+  Event study (reference 2010): 2005: -0.072 [-0.284, +0.140]  2015: -0.320 [-0.574, -0.082]  2020: -0.491 [-0.744, -0.233]  2025: -0.370 [-0.653, -0.099]
+
+M, lists with a seat, weighted mean of the predecessors
+  Mean merged: 2010: 2.856  2015: 3.689  2020: 3.484  2025: 3.623
+  Mean unchanged: 2010: 2.898  2015: 3.178  2020: 2.975  2025: 3.127
+  Effect +0.547  95 % [+0.385, +0.699]
+  Event study (reference 2010): 2015: +0.552 [+0.382, +0.717]  2020: +0.551 [+0.360, +0.736]  2025: +0.537 [+0.321, +0.740]
+
+MU, lists with a seat, union of the predecessors
+  Mean merged: 2010: 3.639  2015: 3.689  2020: 3.484  2025: 3.623
+  Mean unchanged: 2010: 2.898  2015: 3.178  2020: 2.975  2025: 3.127
+  Effect -0.236  95 % [-0.421, -0.056]
+  Event study (reference 2010): 2015: -0.231 [-0.429, -0.052]  2020: -0.232 [-0.436, -0.031]  2025: -0.246 [-0.485, -0.015]
+
+UN, as U but every list name counted separately
+  Mean merged: 2005: 4.221  2010: 4.238  2015: 3.992  2020: 3.910  2025: 4.025
+  Mean unchanged: 2005: 3.089  2010: 3.255  2015: 3.369  2020: 3.459  2025: 3.452
+  Effect -0.509  95 % [-0.720, -0.311]
+
+Lists of a party that stood in no predecessor municipality of the unit in 2010
+  merged 2015: 48 new lists in 43 of 122 units (35%), {'FPÖ': 18, 'GRÜNE': 14, 'NEOS': 8, 'KPÖ': 6, 'SPÖ': 2}
+  merged 2020: 52 new lists in 44 of 122 units (36%), {'FPÖ': 17, 'NEOS': 15, 'GRÜNE': 10, 'KPÖ': 9, 'SPÖ': 1}
+  merged 2025: 62 new lists in 49 of 122 units (40%), {'NEOS': 23, 'FPÖ': 20, 'GRÜNE': 11, 'KPÖ': 7, 'SPÖ': 1}
+  unchanged 2015: 41 new lists in 37 of 157 units (24%), {'FPÖ': 22, 'KPÖ': 7, 'NEOS': 7, 'GRÜNE': 4, 'SPÖ': 1}
+  unchanged 2020: 60 new lists in 55 of 157 units (35%), {'FPÖ': 31, 'NEOS': 14, 'KPÖ': 12, 'GRÜNE': 3}
+  unchanged 2025: 73 new lists in 66 of 157 units (42%), {'FPÖ': 41, 'NEOS': 13, 'KPÖ': 10, 'GRÜNE': 9}

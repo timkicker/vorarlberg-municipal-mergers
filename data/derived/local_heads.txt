@@ -1,0 +1,7 @@
+Local heads per absorbed municipality (local_heads.py)
+
+rates per year: lower version (half the Feldkirch minimum rate) 8,491 EUR, Feldkirch minimum rate 16,982 EUR, Feldkirch maximum rate 22,820 EUR
+
+Partition | units with merger | absorbed municipalities | costs m per rate | savings on elected bodies O m | costs in % of O
+  Threshold 3500 | 24 | 56 | 0.48 / 0.95 / 1.28 | 2.29 to 5.52 | 9% to 56%
+  Threshold 5000 | 17 | 69 | 0.59 / 1.17 / 1.57 | 3.32 to 6.80 | 9% to 47%

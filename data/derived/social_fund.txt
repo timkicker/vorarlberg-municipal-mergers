@@ -1,0 +1,29 @@
+Claw-back through the social fund per partition, m EUR per year (social_fund.py)
+half shared by financial strength 76.4 m EUR, financial strength 2024 from the operating statement
+
+under § 61: tax shares plus property and payroll tax (main calculation): financial strength of all municipalities 797.3 m
+Partition | FAG gain merged | extra payment merged | share of the gain | lower payment unchanged
+Threshold 2000 | +2.9 | +0.27 | 9% | -0.27
+Threshold 3500 | +3.8 | +0.34 | 9% | -0.34
+Threshold 5000 | +16.1 | +1.28 | 8% | -1.28
+Planning regions | +39.0 | +2.56 | 7% | -2.56
+Regions | +62.7 | +0.14 | 0% | -0.14
+Districts | +76.8 | +0.00 | 0% | +0.00
+
+tax shares plus own levies: financial strength of all municipalities 855.8 m
+Partition | FAG gain merged | extra payment merged | share of the gain | lower payment unchanged
+Threshold 2000 | +2.9 | +0.25 | 9% | -0.25
+Threshold 3500 | +3.8 | +0.32 | 8% | -0.32
+Threshold 5000 | +16.1 | +1.18 | 7% | -1.18
+Planning regions | +39.0 | +2.38 | 6% | -2.38
+Regions | +62.7 | +0.17 | 0% | -0.17
+Districts | +76.8 | +0.00 | 0% | +0.00
+
+tax shares only (upper bound): financial strength of all municipalities 551.5 m
+Partition | FAG gain merged | extra payment merged | share of the gain | lower payment unchanged
+Threshold 2000 | +2.9 | +0.39 | 13% | -0.39
+Threshold 3500 | +3.8 | +0.50 | 13% | -0.50
+Threshold 5000 | +16.1 | +1.86 | 12% | -1.86
+Planning regions | +39.0 | +3.75 | 10% | -3.75
+Regions | +62.7 | +0.19 | 0% | -0.19
+Districts | +76.8 | +0.00 | 0% | +0.00

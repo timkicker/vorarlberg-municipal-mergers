@@ -1,0 +1,11 @@
+Savings per partition, prices 2024: elected bodies (O) plus the rest of core administration (V) (savings_2024.py)
+municipalities with a file 2024: 88; payments MVAG 32 and 34 of these municipalities 1,687 m, scaled up to 96 by population 1,827 m
+V upper bound: 3.4% of the rest of core administration of the predecessors, lower bound 0
+
+Partition | units | O m (smaller to larger fit) | V covered m (units) | V scaled up m | E24 m | E24 in % of spending | cost curve, factor 0.57 / 0.16, prices 2016-19
+Threshold 2000 | 23 | 3.33 to 4.44 | 1.05 (18) | 1.35 | 3.33 to 5.79 | 0.18% to 0.32% | 3.24 / 0.89
+Threshold 3500 | 24 | 4.68 to 5.52 | 1.37 (18) | 1.79 | 4.68 to 7.31 | 0.26% to 0.40% | 3.73 / 1.03
+Threshold 5000 | 17 | 6.80 to 6.80 | 1.34 (12) | 2.20 | 6.80 to 9.01 | 0.37% to 0.49% | 4.12 / 1.14
+official planning region | 13 | 7.59 to 8.60 | 1.35 (7) | 2.83 | 7.59 to 11.43 | 0.42% to 0.63% | 3.83 / 1.06
+official region | 7 | 8.68 to 13.10 | 0.50 (3) | 4.03 | 8.68 to 17.13 | 0.48% to 0.94% | -3.28 / -0.90
+official district | 4 | 9.07 to 13.57 | 0.88 (1) | 3.90 | 9.07 to 17.47 | 0.50% to 0.96% | -1.09 / -0.30

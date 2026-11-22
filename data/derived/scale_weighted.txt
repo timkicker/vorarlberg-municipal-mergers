@@ -1,0 +1,8 @@
+Scale factor with numerator and denominator weighted alike (scale_weighted.py)
+merged units 123, population 2014 557,903
+prediction of the cost curve unweighted: log -0.2552 (styria.py: -0.255)
+prediction of the cost curve weighted by population 2014: log -0.2032
+
+factor unweighted, cleaned main run: -0.1492 / -0.255 = 0.585
+factor weighted (effect not cleaned, weighted): -0.117 / -0.203 = 0.576
+for comparison, weighted effect over unweighted prediction: -0.117 / -0.255 = 0.46

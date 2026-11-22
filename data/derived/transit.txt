@@ -1,0 +1,45 @@
+Way to the seat by bus and train for municipalities that lose the seat (transit.py)
+Source: vmobil GTFS (Mobilitätsverbünde Österreich OG, sample data set 03.07.2026, licence with attribution), ÖBB GTFS 2026 (CC BY 4.0)
+reference day 13.10.2026 (Tuesday), departure 7:00 to 9:00 every 15 min, median over nine times, no arrival by 12:00 = no connection
+on foot: access up to 800 m, transfer up to 400 m, beeline x 1.3 at 4.5 km/h, 120 s minimum transfer; seat = largest member by fag.load_pop
+vmobil_gtfs_20260703.zip: services on the reference day 230, trips 8409, connections in Vorarlberg with margin 153267
+oebb_gtfs_2026.zip: services on the reference day 265, trips 6290, connections in Vorarlberg with margin 2217
+stops in Vorarlberg with 10 km margin: 4253, connections total 155484, settlement points with substitute point ['St. Anton im Montafon', 'Laterns']
+settlement point moved to the stop with the most departures: ['Laterns → Innerlaterns Kirche']; after that without a stop within 800 m: ['Mittelberg']
+
+partition | municipalities without the seat | median min | weighted mean min (only with a connection) | maximum | inhabitants of Vorarlberg over 30 min | over 60 min | no connection in the morning | median public transport/car | three farthest
+Threshold 2000 | 45 | 36.7 | 41.8 | 148.1 | 5.1% | 1.8% | 0 (0 inhabitants) | 6.0 | Damüls→Raggal 148, Warth→Au 137, Fontanella→Raggal 118
+Threshold 3500 | 56 | 38.8 | 38.4 | 158.8 | 8.5% | 1.7% | 0 (0 inhabitants) | 6.1 | Warth→Bezau 159, Damüls→Raggal 148, Schröcken→Bezau 129
+Threshold 5000 | 69 | 41.0 | 41.1 | inf | 12.0% | 4.7% | 5 (5,605 inhabitants) | 6.3 | Bezau→Mittelberg inf, Bizau→Mittelberg inf, Mellau→Mittelberg inf | via Mittelberg: 9 municipalities
+Planning regions | 77 | 38.8 | 34.9 | 158.8 | 14.3% | 3.4% | 0 (0 inhabitants) | 6.0 | Warth→Bezau 159, Schröcken→Bezau 129, Fontanella→Ludesch 103
+Regions | 88 | 56.2 | 46.6 | 174.2 | 63.2% | 20.5% | 0 (0 inhabitants) | 4.7 | Warth→Egg 174, Schröcken→Egg 144, Stallehr→Schruns 143
+Districts | 92 | 61.0 | 49.0 | inf | 48.7% | 15.0% | 1 (5,108 inhabitants) | 4.8 | Mittelberg→Bregenz inf, Warth→Bregenz 207, Gaschurn→Bludenz 184 | via Mittelberg: 1 municipalities
+
+check, median min (public transport | car):
+  Feldkirch → Bregenz: 67.1 | 25.5
+  Warth → Lech: 162.7 | 6.1
+  Laterns → Rankweil: 63.3 | 13.7
+
+Way to the seat by bus and train for municipalities that lose the seat (transit.py)
+Source: vmobil GTFS (Mobilitätsverbünde Österreich OG, sample data set 03.07.2026, licence with attribution), ÖBB GTFS 2026 (CC BY 4.0)
+reference day 12.05.2026 (Tuesday), departure 7:00 to 9:00 every 15 min, median over nine times, no arrival by 12:00 = no connection
+on foot: access up to 800 m, transfer up to 400 m, beeline x 1.3 at 4.5 km/h, 120 s minimum transfer; seat = largest member by fag.load_pop
+vmobil_gtfs_20260703.zip: services on the reference day 213, trips 8403, connections in Vorarlberg with margin 152071
+oebb_gtfs_2026.zip: services on the reference day 312, trips 6132, connections in Vorarlberg with margin 4109
+stops in Vorarlberg with 10 km margin: 4253, connections total 156180, settlement points with substitute point ['St. Anton im Montafon', 'Laterns']
+settlement point moved to the stop with the most departures: ['Laterns → Innerlaterns Kirche']; after that without a stop within 800 m: ['Mittelberg']
+
+partition | municipalities without the seat | median min | weighted mean min (only with a connection) | maximum | inhabitants of Vorarlberg over 30 min | over 60 min | no connection in the morning | median public transport/car | three farthest
+Threshold 2000 | 45 | 35.9 | 43.9 | 148.1 | 5.1% | 1.7% | 0 (0 inhabitants) | 6.2 | Damüls→Raggal 148, Warth→Au 137, Lech→Dalaas 120
+Threshold 3500 | 56 | 38.8 | 39.4 | 158.8 | 8.5% | 1.6% | 0 (0 inhabitants) | 6.0 | Warth→Bezau 159, Damüls→Raggal 148, Schröcken→Bezau 129
+Threshold 5000 | 69 | 41.0 | 41.2 | inf | 11.7% | 4.8% | 5 (5,605 inhabitants) | 6.2 | Bezau→Mittelberg inf, Bizau→Mittelberg inf, Mellau→Mittelberg inf | via Mittelberg: 9 municipalities
+Planning regions | 77 | 38.8 | 34.9 | 158.8 | 13.8% | 3.3% | 0 (0 inhabitants) | 5.9 | Warth→Bezau 159, Schröcken→Bezau 129, Lech→Dalaas 120
+Regions | 88 | 52.2 | 42.3 | 174.2 | 55.0% | 7.7% | 0 (0 inhabitants) | 4.4 | Warth→Egg 174, Schröcken→Egg 144, Lech→Dalaas 120
+Districts | 92 | 57.3 | 42.3 | inf | 47.3% | 11.4% | 1 (5,108 inhabitants) | 4.2 | Mittelberg→Bregenz inf, Warth→Bregenz 207, Schröcken→Bregenz 177 | via Mittelberg: 1 municipalities
+
+check, median min (public transport | car):
+  Feldkirch → Bregenz: 56.1 | 25.5
+  Warth → Lech: inf | 6.1
+  Laterns → Rankweil: 63.3 | 13.7
+
+ÖBB trips stopping at Feldkirch station: 12.05.2026 219, 13.10.2026 141

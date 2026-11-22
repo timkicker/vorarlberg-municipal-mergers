@@ -1,0 +1,25 @@
+Styria: areas 2014 539, with primary school 2019/20 362, 2024/25 357, new 1
+Vorarlberg: areas 2014 96, with primary school 2019/20 92, 2024/25 92, new 0
+
+share of areas with a primary school 2019/20 that have none in 2024/25
+  group | size 2014 | areas | without primary school 2024/25 | share | 95 %
+  no merger | under 1,000 | 13 | 0 | 0.0% | [0.0%, 0.0%]
+  no merger | 1,000 to 2,000 | 77 | 0 | 0.0% | [0.0%, 0.0%]
+  no merger | over 2,000 | 67 | 0 | 0.0% | [0.0%, 0.0%]
+  no merger | all | 157 | 0 | 0.0% | [0.0%, 0.0%]
+  seat | under 1,000 | 8 | 0 | 0.0% | [0.0%, 0.0%]
+  seat | 1,000 to 2,000 | 48 | 0 | 0.0% | [0.0%, 0.0%]
+  seat | over 2,000 | 56 | 0 | 0.0% | [0.0%, 0.0%]
+  seat | all | 112 | 0 | 0.0% | [0.0%, 0.0%]
+  other parts | under 1,000 | 49 | 4 | 8.2% | [2.0%, 16.3%]
+  other parts | 1,000 to 2,000 | 35 | 2 | 5.7% | [0.0%, 14.3%]
+  other parts | over 2,000 | 9 | 0 | 0.0% | [0.0%, 0.0%]
+  other parts | all | 93 | 6 | 6.5% | [2.2%, 11.8%]
+  Vorarlberg | all | 92 | 0 | 0.0% |
+
+difference other parts minus no merger, same size
+  under 1,000: +8.2%  95 % [+2.0%, +16.3%]  (n 49 against 13)
+  1,000 to 2,000: +5.7%  95 % [+0.0%, +14.3%]  (n 35 against 77)
+  over 2,000: +0.0%  95 % [+0.0%, +0.0%]  (n 9 against 67)
+  all: +6.5%  95 % [+2.2%, +11.8%]  (n 93 against 157)
+areas 2014 without population 2014: 0

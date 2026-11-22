@@ -1,0 +1,9 @@
+Merger grant of the state per partition, lower bound 0.1 m EUR per participating municipality (merger_grant.py)
+
+Partition | municipalities in merged units | grant m | one-off costs m (balance_2024) | grant / lower costs | grant / upper costs
+Threshold 2000 | 68 | 6.8 | 3.5 to 14.5 | 194% | 47%
+Threshold 3500 | 80 | 8.0 | 4.6 to 18.9 | 174% | 42%
+Threshold 5000 | 86 | 8.6 | 5.4 to 22.2 | 159% | 39%
+Planning regions | 90 | 9.0 | 6.8 to 27.9 | 132% | 32%
+Regions | 95 | 9.5 | 11.2 to 46.0 | 85% | 21%
+Districts | 96 | 9.6 | 11.4 to 46.5 | 84% | 21%

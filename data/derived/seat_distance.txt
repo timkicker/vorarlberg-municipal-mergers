@@ -1,0 +1,11 @@
+Way to the seat for municipalities that lose the seat (seat_distance.py)
+Source: travel_time_seat.csv (car, road network, without congestion and winter closures), seat = largest member by fag.load_pop 2024
+Mittelberg: substitute value beeline x 1.5 at 40 km/h (no road into the rest of the state)
+
+partition | municipalities without the seat | population | median min | weighted mean min | maximum | inhabitants of Vorarlberg over 15 min | over 30 min | three farthest
+Threshold 2000 | 45 | 37,874 | 6.6 | 7.2 | 22.0 | 0.5% | 0.0% | Lech 22.0, Warth 20.3, Damüls 17.2
+Threshold 3500 | 56 | 62,417 | 6.4 | 6.5 | 32.1 | 0.6% | 0.0% | Warth 32.1, Schröcken 23.5, Lech 22.0
+Threshold 5000 | 69 | 100,213 | 6.8 | 9.1 | 46.9 | 4.1% | 2.2% | Mellau (substitute) 46.9, Reuthe (substitute) 45.9, Bezau (substitute) 45.6 | substitute values via Mittelberg: 9 municipalities, 8,818 inhabitants
+Planning regions | 77 | 153,026 | 7.1 | 6.3 | 32.1 | 1.9% | 0.0% | Warth 32.1, Schröcken 23.5, Lech 22.0
+Regions | 88 | 320,802 | 11.1 | 11.5 | 39.7 | 19.8% | 0.1% | Warth 39.7, Schröcken 31.0, Laterns 29.4
+Districts | 92 | 276,931 | 11.9 | 12.3 | 82.3 | 11.3% | 4.2% | Mittelberg (substitute) 82.3, Warth 61.4, Schröcken 52.8 | substitute values via Mittelberg: 1 municipalities, 5,108 inhabitants

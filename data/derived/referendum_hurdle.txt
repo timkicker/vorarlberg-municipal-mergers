@@ -1,0 +1,9 @@
+Municipalities in mergers per partition (referendum_hurdle.py)
+
+partition | units with more than one member | municipalities in them | inhabitants in them | municipalities that lose the seat | most municipalities losing the seat in one unit
+  Threshold 2000 | 23 | 68 | 127,207 | 45 | 6
+  Threshold 3500 | 24 | 80 | 166,299 | 56 | 8
+  Threshold 5000 | 17 | 86 | 195,366 | 69 | 9
+  official planning region | 13 | 90 | 245,420 | 77 | 10
+  official region | 7 | 95 | 404,865 | 88 | 30
+  official district | 4 | 96 | 409,973 | 92 | 39

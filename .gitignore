@@ -1,0 +1,10 @@
+data/raw/*
+!data/raw/altitude_municipalities_2020.csv
+!data/raw/grants_by_municipality_29_01_017.csv
+!data/raw/hospital_contributions_2022_29_01_160.csv
+!data/raw/vbg_court_districts.csv
+data/derived/coop2016*
+data/derived/first_names.csv
+.venv/
+__pycache__/
+.pytest_cache/

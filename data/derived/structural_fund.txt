@@ -1,0 +1,33 @@
+Structural fund FAG 2024 § 26 per partition (structural_fund.py)
+benchmarks: development +1.45% (half of AT 2020-2024), dependency ratio AT 0.520, own levies Vorarlberg 750 EUR per inhabitant
+
+mean fiscal strength times 1.0
+Partition | units | state quota m | change | municipalities in the key | share of merged units in the key
+Status quo | 96 | 0.78 | +0% | 35 | 0%
+Threshold 2000 | 51 | 0.55 | -29% | 8 | 49%
+Threshold 3500 | 40 | 0.39 | -49% | 6 | 84%
+Threshold 5000 | 27 | 0.19 | -76% | 3 | 100%
+official planning region | 19 | 0.06 | -92% | 1 | 100%
+official region | 8 | 0.02 | -98% | 1 | 100%
+official district | 4 | 0.00 | -100% | 0 | 0%
+
+mean fiscal strength times 0.8
+Partition | units | state quota m | change | municipalities in the key | share of merged units in the key
+Status quo | 96 | 0.37 | +0% | 24 | 0%
+Threshold 2000 | 51 | 0.25 | -32% | 7 | 52%
+Threshold 3500 | 40 | 0.10 | -74% | 3 | 100%
+Threshold 5000 | 27 | 0.00 | -100% | 0 | 0%
+official planning region | 19 | 0.00 | -100% | 0 | 0%
+official region | 8 | 0.00 | -100% | 0 | 0%
+official district | 4 | 0.00 | -100% | 0 | 0%
+
+mean fiscal strength times 1.2
+Partition | units | state quota m | change | municipalities in the key | share of merged units in the key
+Status quo | 96 | 1.46 | +0% | 43 | 0%
+Threshold 2000 | 51 | 1.11 | -24% | 16 | 45%
+Threshold 3500 | 40 | 1.09 | -26% | 12 | 71%
+Threshold 5000 | 27 | 0.94 | -35% | 8 | 83%
+official planning region | 19 | 0.36 | -76% | 3 | 59%
+official region | 8 | 0.06 | -96% | 1 | 100%
+official district | 4 | 0.00 | -100% | 0 | 0%
+

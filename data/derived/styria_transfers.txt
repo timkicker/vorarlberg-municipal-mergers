@@ -1,0 +1,55 @@
+Transfers to Styrian units (styria_transfers.py), EUR per inhabitant; Styria 279 units (123 merged), other states 1677
+
+state grants (940)
+  after 2016-19, Styrian control (n 279): -10.0  95 % [-20.0, +0.1]
+  after 2016-19, combined control group, year x size tercile (n 1956): -15.3  95 % [-22.7, -8.7]
+  early 2016-17, Styrian control (n 279): -2.8  95 % [-13.1, +7.0]
+  early 2016-17, combined control group, year x size tercile (n 1956): +0.3  95 % [-6.7, +7.2]
+  late 2018-19, Styrian control (n 279): -17.2  95 % [-27.7, -6.1]
+  late 2018-19, combined control group, year x size tercile (n 1956): -30.9  95 % [-39.2, -23.0]
+  summed per inhabitant, year: merged / unchanged
+    2010:    38.6 /    26.6
+    2011:    42.1 /    30.9
+    2012:    31.3 /    19.8
+    2013:    24.7 /    17.3
+    2014:    21.1 /    22.2
+    2016:    16.7 /    18.7
+    2017:    49.0 /    30.8
+    2018:    32.8 /    30.6
+    2019:    20.6 /    29.0
+
+grants from the states (946, 947)
+  after 2016-19, Styrian control (n 279): +0.1  95 % [-0.2, +0.5]
+  after 2016-19, combined control group, year x size tercile (n 1956): -1.5  95 % [-2.1, -0.8]
+  early 2016-17, Styrian control (n 279): +0.1  95 % [-0.2, +0.5]
+  early 2016-17, combined control group, year x size tercile (n 1956): -0.4  95 % [-0.8, +0.0]
+  late 2018-19, Styrian control (n 279): +0.1  95 % [-0.2, +0.5]
+  late 2018-19, combined control group, year x size tercile (n 1956): -2.5  95 % [-3.7, -1.5]
+  summed per inhabitant, year: merged / unchanged
+    2010:     0.1 /     0.9
+    2011:     0.1 /     0.0
+    2012:     0.3 /     0.0
+    2013:     0.1 /     0.0
+    2014:     0.0 /     0.0
+    2016:     0.0 /     0.0
+    2017:     0.0 /     0.0
+    2018:     0.0 /     0.0
+    2019:     0.0 /     0.0
+
+section 94 total (940 to 947)
+  after 2016-19, Styrian control (n 279): -3.7  95 % [-14.2, +6.5]
+  after 2016-19, combined control group, year x size tercile (n 1956): -8.3  95 % [-15.5, -1.6]
+  early 2016-17, Styrian control (n 279): +12.2  95 % [+2.1, +22.5]
+  early 2016-17, combined control group, year x size tercile (n 1956): +12.2  95 % [+5.0, +19.2]
+  late 2018-19, Styrian control (n 279): -19.5  95 % [-31.3, -8.5]
+  late 2018-19, combined control group, year x size tercile (n 1956): -28.8  95 % [-36.9, -21.2]
+  summed per inhabitant, year: merged / unchanged
+    2010:    63.5 /    48.3
+    2011:    64.2 /    48.0
+    2012:    51.8 /    34.9
+    2013:    46.7 /    36.1
+    2014:    45.0 /    40.4
+    2016:    59.4 /    31.9
+    2017:    78.4 /    58.2
+    2018:    69.2 /    66.5
+    2019:    49.4 /    55.8

@@ -1,0 +1,10 @@
+Savings per partition with the office at the top of its range (savings_2024.py)
+
+Upper end with the office at the top of its 95 % range (7.2%, factor 2.10)
+Partition | E24 upper m | in % of spending
+Threshold 2000 | 7.28 | 0.40%
+Threshold 3500 | 9.28 | 0.51%
+Threshold 5000 | 11.43 | 0.63%
+official planning region | 14.54 | 0.80%
+official region | 21.57 | 1.18%
+official district | 21.76 | 1.19%

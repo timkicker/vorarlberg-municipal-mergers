@@ -1,0 +1,44 @@
+Mayoral elections Vorarlberg 2020 and 2025 by eligible voters of the council election
+
+2020: 96 municipalities
+class | municipalities | without direct election | candidates per direct election | female candidates/candidates (unclear) | elected women/elected (unclear) | median age cand. | median age elected | elected under 40
+all | 96 | 31 | 2.18 | 21/141 (1) | 3/64 (1) | 52 | 53 | 8/65
+0-750 | 31 | 15 | 1.38 | 1/21 (1) | 0/15 (1) | 51 | 51 | 3/16
+750-1,500 | 19 | 14 | 1.60 | 0/8 (0) | 0/5 (0) | 55 | 55 | 0/5
+1,500-3,000 | 23 | 2 | 1.67 | 6/35 (0) | 1/21 (0) | 51 | 53 | 3/21
+3,000-7,500 | 13 | 0 | 2.54 | 3/33 (0) | 0/13 (0) | 53 | 54 | 1/13
+7,500+ | 10 | 0 | 4.40 | 11/44 (0) | 2/10 (0) | 52 | 54 | 1/10
+  without direct election all: 13 with majority vote for the council (no list), 18 with list vote, of which 14 with only one list
+  without direct election 0-750: 9 with majority vote for the council (no list), 6 with list vote, of which 4 with only one list
+  without direct election 750-1,500: 4 with majority vote for the council (no list), 10 with list vote, of which 9 with only one list
+  without direct election 1,500-3,000: 0 with majority vote for the council (no list), 2 with list vote, of which 1 with only one list
+  without direct election 3,000-7,500: 0 with majority vote for the council (no list), 0 with list vote, of which 0 with only one list
+  without direct election 7,500+: 0 with majority vote for the council (no list), 0 with list vote, of which 0 with only one list
+  direct election without winner (sole candidate at most 50 % yes): 0; without direct election: 31
+  more than one candidate: all 40/96  0-750 5/31  750-1,500 2/19  1,500-3,000 12/23  3,000-7,500 11/13  7,500+ 10/10
+
+2025: 96 municipalities
+class | municipalities | without direct election | candidates per direct election | female candidates/candidates (unclear) | elected women/elected (unclear)
+all | 96 | 35 | 2.11 | 20/129 (0) | 4/61 (0)
+0-750 | 32 | 21 | 1.09 | 0/12 (0) | 0/11 (0)
+750-1,500 | 17 | 12 | 1.40 | 1/7 (0) | 0/5 (0)
+1,500-3,000 | 23 | 2 | 1.52 | 5/32 (0) | 2/21 (0)
+3,000-7,500 | 14 | 0 | 2.36 | 4/33 (0) | 1/14 (0)
+7,500+ | 10 | 0 | 4.50 | 10/45 (0) | 1/10 (0)
+  without direct election all: 13 with majority vote for the council (no list), 22 with list vote, of which 19 with only one list
+  without direct election 0-750: 9 with majority vote for the council (no list), 12 with list vote, of which 11 with only one list
+  without direct election 750-1,500: 4 with majority vote for the council (no list), 8 with list vote, of which 6 with only one list
+  without direct election 1,500-3,000: 0 with majority vote for the council (no list), 2 with list vote, of which 2 with only one list
+  without direct election 3,000-7,500: 0 with majority vote for the council (no list), 0 with list vote, of which 0 with only one list
+  without direct election 7,500+: 0 with majority vote for the council (no list), 0 with list vote, of which 0 with only one list
+  direct election without winner (sole candidate at most 50 % yes): 0; without direct election: 35
+  more than one candidate: all 32/96  0-750 1/32  750-1,500 1/17  1,500-3,000 10/23  3,000-7,500 12/14  7,500+ 8/10
+
+change in office 2020 to 2025, municipalities with a directly elected mayor in both years: 58 (left out 38)
+class (2025) | municipalities | change | of which only one candidate in 2025
+all | 58 | 27 | 7
+0-750 | 11 | 2 | 2
+750-1,500 | 3 | 2 | 1
+1,500-3,000 | 20 | 8 | 4
+3,000-7,500 | 14 | 9 | 0
+7,500+ | 10 | 6 | 0

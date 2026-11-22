@@ -1,0 +1,10 @@
+Seats in the municipal council under § 34 GG per partition (council_seats.py)
+
+partition | units (= mayors) | seats | inhabitants per seat median | statewide | predecessors with less than 1 seat under allocation by head count
+Status quo | 96 | 1851 | 104 | 221 | 0
+Threshold 2000 | 51 | 1350 | 190 | 304 | 1
+Threshold 3500 | 40 | 1131 | 262 | 362 | 4
+Threshold 5000 | 27 | 861 | 369 | 476 | 10
+official planning region | 19 | 645 | 481 | 636 | 16
+official region | 8 | 255 | 461 | 1608 | 35
+official district | 4 | 144 | 2863 | 2847 | 62

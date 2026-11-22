@@ -1,0 +1,22 @@
+Backtest Styria without controls whose area changed (styria_clean_controls.py)
+Units in panel 279, treated 123, control 156; other states 1677
+Controls with a change of area: 4
+  61055: 2015 gain 25.9% from ['61040']
+  62205: 2011-2014 merged: ['60702', '60734']
+  62265: 2015 gain 17.0% from ['62248']
+  62274: 2015 gain 25.7% from ['62227']
+Known controls with a change of area: 61055 found, 62265 found, 62274 found, 62205 found
+Controls whose code was only renumbered 2011 to 2014: 50
+Styrian codes with budget data in 2010 but not in 2011: []
+
+Main: net, Styrian control (as styria.py) (n = 279, Styrian controls 156)
+  Effect log -0.1447  95 % [-0.183, -0.108]  i.e. -13.5%
+
+Main cleaned: without changed controls (n = 275, Styrian controls 152)
+  Effect log -0.1492  95 % [-0.187, -0.110]  i.e. -13.9%
+
+Combined control group, year x size tercile (as styria.py) (n = 1956, Styrian controls 156)
+  Effect log -0.0474  95 % [-0.075, -0.019]  i.e. -4.6%
+
+same cleaned (n = 1952, Styrian controls 152)
+  Effect log -0.0474  95 % [-0.073, -0.018]  i.e. -4.6%

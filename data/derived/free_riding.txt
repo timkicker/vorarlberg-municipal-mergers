@@ -1,0 +1,12 @@
+Law of 1/n before the Styrian mergers (free_riding.py)
+
+municipalities 532, of which predecessors of merged units 372 in 125 units
+freeride among the predecessors: median 0.73, 10th to 90th percentile 0.29 to 0.92
+
+outcome | year | A: freeride within the unit, EUR per inhabitant [95 %] | A at the median | B: merged [95 %] | B: freeride [95 %]
+  extraordinary spending | 2014 | +498 [+239, +774] | +364 | -80 [-242, +79] | +445 [+248, +656]
+  extraordinary spending | 2013 | +14 [-153, +188] | +11 | -50 [-160, +64] | -4 [-145, +138]
+  debt | 2014 | -261 [-466, -81] | -191 | +129 [-4, +272] | -190 [-358, -40]
+  debt | 2013 | -56 [-159, +42] | -41 | -6 [-78, +71] | -29 [-114, +58]
+  ordinary spending | 2014 | +276 [+79, +501] | +202 | +23 [-71, +110] | +217 [+81, +360]
+  ordinary spending | 2013 | -65 [-179, +29] | -48 | +1 [-58, +67] | -14 [-97, +58]

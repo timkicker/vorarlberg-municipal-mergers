@@ -1,0 +1,19 @@
+[project]
+name = "vorarlberg-municipal-mergers"
+version = "0.1.0"
+requires-python = ">=3.13"
+dependencies = [
+    "networkx>=3.7",
+    "numpy>=2.5.5",
+    "openpyxl>=3.1.5",
+    "osmium>=4.3.2",
+    "pdfplumber>=0.11.10",
+    "pyproj>=3.8.0",
+    "scipy>=1.18.1",
+    "shapely>=2.2.0",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.2.0",
+]

@@ -1,0 +1,9 @@
+Cross-section of the elected bodies (Vorarlberg 2024) against the Styrian backtest (organs_styria_check.py)
+Fits as elected_bodies.py: linear a = 98,616 euros, b = 23.80 euros per inhabitant; log-log e = 0.493 (n 88)
+Merged Styrian units 123, predecessors 371, population 2014 557,903
+
+Form | predicted saving m euros | per inhabitant
+  linear | 24.46 | 43.8
+  log-log | 18.33 | 32.9
+  measured (styria_control.txt, Styrian control) | | 26.0
+Reading: outside but not far

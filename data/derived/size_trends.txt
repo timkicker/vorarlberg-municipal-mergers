@@ -1,0 +1,54 @@
+Vorarlberg 2020 to 2024 by size (size_trends.py)
+
+core administration: 49 municipalities with a file in all five years
+
+core administration gross, operating budget
+  class | municipalities | 2020 | 2022 | 2024 | growth 2020-24 | growth 2021-24 (EUR per inhabitant, sum of the class)
+  under 1,000      |  16 |    555 |    617 |    755 | +36% | +29%
+  1,000 to 2,000   |   8 |    359 |    387 |    494 | +37% | +29%
+  2,000 to 3,500   |   9 |    338 |    383 |    461 | +36% | +27%
+  3,500 to 7,500   |  11 |    344 |    380 |    468 | +36% | +30%
+  7,500 to 15,000  |   3 |    335 |    370 |    508 | +52% | +45%
+  over 15,000      |   2 |    337 |    360 |    450 | +34% | +25%
+  all              |  49 |    351 |    385 |    486 | +39% | +32%
+
+core administration net, operating budget
+  class | municipalities | 2020 | 2022 | 2024 | growth 2020-24 | growth 2021-24 (EUR per inhabitant, sum of the class)
+  under 1,000      |  16 |    450 |    509 |    632 | +41% | +34%
+  1,000 to 2,000   |   8 |    283 |    303 |    377 | +33% | +24%
+  2,000 to 3,500   |   9 |    289 |    322 |    382 | +32% | +28%
+  3,500 to 7,500   |  11 |    279 |    306 |    392 | +40% | +34%
+  7,500 to 15,000  |   3 |    298 |    321 |    442 | +48% | +47%
+  over 15,000      |   2 |    278 |    300 |    374 | +34% | +26%
+  all              |  49 |    292 |    319 |    406 | +39% | +33%
+
+personnel (321), all municipalities
+  class | municipalities | 2020 | 2022 | 2024 | growth 2020-24 | growth 2021-24 (EUR per inhabitant, sum of the class)
+  under 1,000      |  32 |    650 |    724 |    914 | +41% | +35%
+  1,000 to 2,000   |  18 |    813 |    899 |  1,146 | +41% | +35%
+  2,000 to 3,500   |  20 |    613 |    679 |    863 | +41% | +36%
+  3,500 to 7,500   |  14 |    653 |    740 |    923 | +41% | +36%
+  7,500 to 15,000  |   6 |    749 |    832 |  1,074 | +43% | +37%
+  over 15,000      |   6 |    838 |    903 |  1,191 | +42% | +37%
+  all              |  96 |    752 |    826 |  1,068 | +42% | +36%
+
+material costs (322), all municipalities
+  class | municipalities | 2020 | 2022 | 2024 | growth 2020-24 | growth 2021-24 (EUR per inhabitant, sum of the class)
+  under 1,000      |  32 |  1,484 |  1,564 |  1,826 | +23% | +25%
+  1,000 to 2,000   |  18 |  1,145 |  1,266 |  1,548 | +35% | +33%
+  2,000 to 3,500   |  20 |    864 |    986 |  1,149 | +33% | +20%
+  3,500 to 7,500   |  14 |    830 |    873 |  1,042 | +25% | +14%
+  7,500 to 15,000  |   6 |    707 |    795 |  1,028 | +45% | +30%
+  over 15,000      |   6 |    676 |    777 |    937 | +39% | +26%
+  all              |  96 |    798 |    889 |  1,076 | +35% | +24%
+
+transfers to bodies of public law (3231), all municipalities
+  class | municipalities | 2020 | 2022 | 2024 | growth 2020-24 | growth 2021-24 (EUR per inhabitant, sum of the class)
+  under 1,000      |  32 |    557 |    638 |    736 | +32% | +19%
+  1,000 to 2,000   |  18 |    614 |    694 |    825 | +34% | +21%
+  2,000 to 3,500   |  20 |    612 |    704 |    805 | +32% | +25%
+  3,500 to 7,500   |  14 |    619 |    683 |    758 | +22% | +16%
+  7,500 to 15,000  |   6 |    682 |    788 |    857 | +26% | +16%
+  over 15,000      |   6 |    669 |    788 |    861 | +29% | +18%
+  all              |  96 |    646 |    746 |    827 | +28% | +19%
+

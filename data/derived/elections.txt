@@ -1,0 +1,39 @@
+2025: 96 municipalities
+  A: share 0.46; by eligible voters 0-750: 2/32; 750-1,500: 4/17; 1,500-3,000: 15/23; 3,000-7,500: 13/14; 7,500-inf: 10/10
+     slope +2.79  95 % [+1.99, +4.83]  slope > 0
+     50 % at 1,604 eligible voters (95 % 1,292 to 1,992), 90 % at 3,527 (2,372 to 5,213)
+  B: share 0.33; by eligible voters 0-750: 1/32; 750-1,500: 1/17; 1,500-3,000: 10/23; 3,000-7,500: 12/14; 7,500-inf: 8/10
+     slope +2.09  95 % [+1.38, +3.97]  slope > 0
+     50 % at 2,626 eligible voters (95 % 1,992 to 3,769), 90 % at 7,526 (3,806 to 16,487)
+
+2020: 96 municipalities
+  A: share 0.56; by eligible voters 0-750: 8/31; 750-1,500: 5/19; 1,500-3,000: 18/23; 3,000-7,500: 13/13; 7,500-inf: 10/10
+     slope +1.95  95 % [+1.38, +3.22]  slope > 0
+     50 % at 1,075 eligible voters (95 % 785 to 1,400), 90 % at 3,313 (2,216 to 5,215)
+  B: share 0.42; by eligible voters 0-750: 5/31; 750-1,500: 2/19; 1,500-3,000: 12/23; 3,000-7,500: 11/13; 7,500-inf: 10/10
+     slope +1.63  95 % [+1.09, +2.81]  slope > 0
+     50 % at 1,917 eligible voters (95 % 1,411 to 2,618), 90 % at 7,407 (3,944 to 15,688)
+
+Status quo 2025: 14.9% of eligible voters live in municipalities without a contested council election (observed)
+Model 2025, share of eligible voters without a contested election, predicted:
+  Status quo                          96 units  15.1%
+  Intramax k=4                         4 units  0.1%
+  Intramax k=8                         8 units  0.1%
+  Intramax k=10                       10 units  0.2%
+  Intramax k=19                       19 units  0.5%
+  Intramax k=30                       30 units  1.9%
+  Intramax k=40                       40 units  3.2%
+  Intramax k=50                       50 units  5.4%
+  Intramax k=60                       60 units  7.5%
+  Intramax k=70                       70 units  9.7%
+  Intramax k=80                       80 units  12.5%
+  Intramax k=90                       90 units  14.6%
+  Threshold 500                       84 units  14.4%
+  Threshold 1000                      68 units  11.4%
+  Threshold 2000                      51 units  5.8%
+  Threshold 3500                      40 units  2.7%
+  Threshold 5000                      27 units  0.7%
+  official district                    4 units  0.0%
+  official region                      8 units  0.4%
+  official planning region            19 units  0.4%
+  official care management region      9 units  0.0%

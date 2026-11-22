@@ -1,0 +1,43 @@
+Holdings and guarantees of the municipalities (holdings.py)
+
+loans 2024 missing for: Viktorsberg
+
+1. Totals 2024, m EUR, and number of municipalities with a value above zero
+  104 holdings | 398.4 | 88
+  1041 affiliated | 290.1 | 59
+  1042 associated | 12.0 | 25
+  1043 other | 94.8 | 49
+  loans | 1,297.3 | 95
+  guarantees | 313.5 | 83
+  finance leasing | 0.7 | 10
+  guarantees in % of loans: 24.2%
+
+2. Per inhabitant by size (quartile 1 / median / quartile 3)
+  Class | municipalities | holdings | guarantees
+  0 to under 1,000 | 32 | 1 / 86 / 705 | 64 / 258 / 898
+  1,000 to under 2,000 | 18 | 5 / 33 / 774 | 0 / 381 / 1,057
+  2,000 to under 5,000 | 28 | 26 / 127 / 603 | 198 / 392 / 1,523
+  5,000 to under 10,000 | 8 | 88 / 327 / 1,264 | 70 / 247 / 560
+  from 10,000 | 10 | 526 / 1,010 / 1,517 | 345 / 630 / 1,677
+
+3. Highest guarantees per inhabitant
+  Municipality | guarantees per inhabitant | loans per inhabitant | holdings per inhabitant
+  Brand | 6,465 | 12,358 | 6,027
+  Bürs | 3,506 | 1,567 | 2,234
+  Thüringen | 3,290 | 4,818 | 2,866
+  Innerbraz | 2,978 | 622 | 5
+  Röthis | 2,556 | 1,933 | 98
+  Blons | 2,377 | 13,283 | 847
+  Lech | 2,140 | 31,537 | 5,893
+  Gaschurn | 1,974 | 3,828 | 699
+  Bludenz | 1,921 | 2,979 | 1,260
+  Sulz | 1,842 | 2,453 | 112
+
+4. Guarantees that pass to other members per partition
+  Partition | shifted m | share | largest givers (m)
+  Threshold 2000 | 11.9 | 4% | Brand 2.2, Innerbraz 1.5, Wolfurt 1.3
+  Threshold 3500 | 18.6 | 6% | Thüringen 5.1, Brand 2.2, Innerbraz 1.5
+  Threshold 5000 | 38.1 | 12% | Bürs 5.7, Thüringen 5.2, Egg 4.0
+  official planning region | 53.1 | 17% | Hard 9.2, Bürs 5.6, Thüringen 5.1
+  official region | 122.8 | 39% | Dornbirn 53.2, Hard 12.3, Bludenz 11.4
+  official district | 114.5 | 37% | Dornbirn 33.4, Hard 16.1, Bludenz 9.8

@@ -1,0 +1,85 @@
+Styria 279 units (123 merged), other states 1677
+merged units with more than 10,000 inhabitants in 2016: 12 (60344, 60664, 60669, 61053, 61631, 61760, 61766, 62040, 62041, 62139, 62140, 62379)
+
+A. Gross spending by budget group per inhabitant, log
+ Group 0 Representative bodies and general administration
+  Styrian control (n 279, dropped 0): -0.136  95 % [-0.179, -0.094]  i.e. -12.7% (-16.4% to -9.0%)
+  combined control group, year x size tercile (n 1956, dropped 0): -0.076  95 % [-0.114, -0.036]  i.e. -7.3% (-10.7% to -3.6%)
+ Group 1 Public order and safety
+  Styrian control (n 279, dropped 0): +0.004  95 % [-0.119, +0.128]  i.e. +0.4% (-11.3% to +13.7%)
+  combined control group, year x size tercile (n 1955, dropped 1): -0.072  95 % [-0.177, +0.037]  i.e. -7.0% (-16.2% to +3.8%)
+ Group 2 Education, upbringing, sport and science
+  Styrian control (n 279, dropped 0): -0.118  95 % [-0.199, -0.042]  i.e. -11.2% (-18.0% to -4.2%)
+  combined control group, year x size tercile (n 1956, dropped 0): -0.016  95 % [-0.072, +0.044]  i.e. -1.6% (-6.9% to +4.5%)
+ Group 3 Art, culture and religion
+  Styrian control (n 279, dropped 0): -0.081  95 % [-0.186, +0.026]  i.e. -7.7% (-17.0% to +2.6%)
+  combined control group, year x size tercile (n 1954, dropped 2): -0.108  95 % [-0.181, -0.034]  i.e. -10.2% (-16.6% to -3.3%)
+ Group 4 Social welfare and housing subsidies
+  Styrian control (n 279, dropped 0): -0.004  95 % [-0.035, +0.026]  i.e. -0.4% (-3.5% to +2.6%)
+  combined control group, year x size tercile (n 1956, dropped 0): +0.046  95 % [+0.022, +0.072]  i.e. +4.7% (+2.2% to +7.5%)
+ Group 5 Health
+  Styrian control (n 279, dropped 0): -0.005  95 % [-0.071, +0.069]  i.e. -0.5% (-6.9% to +7.1%)
+  combined control group, year x size tercile (n 1956, dropped 0): -0.140  95 % [-0.199, -0.073]  i.e. -13.1% (-18.0% to -7.0%)
+ Group 6 Road and water engineering, transport
+  Styrian control (n 279, dropped 0): -0.240  95 % [-0.325, -0.156]  i.e. -21.4% (-27.7% to -14.5%)
+  combined control group, year x size tercile (n 1952, dropped 4): -0.132  95 % [-0.197, -0.070]  i.e. -12.4% (-17.9% to -6.7%)
+ Group 7 Economic development
+  Styrian control (n 279, dropped 0): -0.116  95 % [-0.244, +0.017]  i.e. -10.9% (-21.6% to +1.7%)
+  combined control group, year x size tercile (n 1909, dropped 47): +0.027  95 % [-0.090, +0.126]  i.e. +2.7% (-8.6% to +13.4%)
+ Group 8 Services
+  Styrian control (n 279, dropped 0): +0.019  95 % [-0.026, +0.065]  i.e. +1.9% (-2.5% to +6.7%)
+  combined control group, year x size tercile (n 1956, dropped 0): +0.015  95 % [-0.020, +0.048]  i.e. +1.5% (-1.9% to +4.9%)
+ Group 9 Public finance
+  Styrian control (n 279, dropped 0): -0.103  95 % [-0.197, -0.018]  i.e. -9.8% (-17.9% to -1.8%)
+  combined control group, year x size tercile (n 1953, dropped 3): -0.141  95 % [-0.214, -0.071]  i.e. -13.1% (-19.2% to -6.8%)
+
+B. Net spending by budget group per inhabitant, EUR
+ Group 0 Representative bodies and general administration
+  Styrian control (n 279, dropped 0): -31.941  95 % [-39.581, -24.516] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): -16.062  95 % [-22.185, -9.956] EUR
+ Group 1 Public order and safety
+  Styrian control (n 279, dropped 0): -0.521  95 % [-3.257, +2.198] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +0.719  95 % [-1.511, +2.900] EUR
+ Group 2 Education, upbringing, sport and science
+  Styrian control (n 279, dropped 0): -2.621  95 % [-15.054, +8.479] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): -8.302  95 % [-20.255, +1.159] EUR
+ Group 3 Art, culture and religion
+  Styrian control (n 279, dropped 0): +0.288  95 % [-3.423, +3.940] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): -0.162  95 % [-3.363, +3.056] EUR
+ Group 4 Social welfare and housing subsidies
+  Styrian control (n 279, dropped 0): +4.121  95 % [-2.386, +10.981] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +16.597  95 % [+11.450, +21.865] EUR
+ Group 5 Health
+  Styrian control (n 279, dropped 0): +0.546  95 % [-0.657, +1.920] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): -34.057  95 % [-35.700, -32.285] EUR
+ Group 6 Road and water engineering, transport
+  Styrian control (n 279, dropped 0): +3.352  95 % [-7.089, +13.258] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +3.980  95 % [-4.555, +12.905] EUR
+ Group 7 Economic development
+  Styrian control (n 279, dropped 0): +0.073  95 % [-6.575, +8.408] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +1.847  95 % [-2.594, +6.192] EUR
+ Group 8 Services
+  Styrian control (n 279, dropped 0): +14.417  95 % [+3.543, +25.976] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +21.077  95 % [+10.836, +30.731] EUR
+ Group 9 Public finance
+  Styrian control (n 279, dropped 0): -11.328  95 % [-31.749, +9.018] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +7.152  95 % [-7.401, +21.271] EUR
+
+C. Revenue
+ tax shares per inhabitant, log
+  Styrian control (n 279, dropped 0): +0.006  95 % [-0.002, +0.014]  i.e. +0.6% (-0.2% to +1.4%)
+  combined control group, year x size tercile (n 1956, dropped 0): +0.005  95 % [-0.002, +0.012]  i.e. +0.5% (-0.2% to +1.2%)
+ fees per inhabitant, log
+  Styrian control (n 278, dropped 1): -0.005  95 % [-0.033, +0.029]  i.e. -0.5% (-3.2% to +2.9%)
+  combined control group, year x size tercile (n 1954, dropped 2): -0.007  95 % [-0.032, +0.027]  i.e. -0.7% (-3.2% to +2.8%)
+
+D. Run-up, periods 2010-11, 2012-14, 2016-19, gap against 2010-11
+ ordinary spending per inhabitant, log
+  Styrian control: run-up +0.017 [+0.001, +0.033] (+1.7%); after -0.025 [-0.046, -0.004] (-2.5%)
+  combined control group, year x size tercile: run-up -0.010 [-0.022, +0.002] (-1.0%); after -0.043 [-0.059, -0.028] (-4.2%)
+ extraordinary spending per inhabitant, log
+  Styrian control: run-up +0.080 [-0.053, +0.216] (+8.3%); after -0.147 [-0.324, +0.019] (-13.6%)
+  combined control group, year x size tercile: run-up +0.142 [+0.049, +0.240] (+15.2%); after +0.110 [-0.008, +0.235] (+11.7%)
+ debt per inhabitant, EUR
+  Styrian control: run-up +42.867 [-19.451, +105.436] EUR; after +67.360 [-76.070, +218.919] EUR
+  combined control group, year x size tercile: run-up +33.923 [-16.849, +85.906] EUR; after +63.769 [-48.214, +175.854] EUR

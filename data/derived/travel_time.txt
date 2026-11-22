@@ -1,0 +1,32 @@
+road graph: 212,682 nodes, 216,077 edges, components 65, of these with at least 1000 nodes: [206919, 3562]
+settlement points without a matching place node (substitute point): 2 ['St. Anton im Montafon', 'Laterns']
+distance settlement point to road node: median 23 m, max 1318 m
+outside the largest component, to all others substitute beeline x 1.5 at 40 km/h: ['Mittelberg'], pairs 95
+
+Spearman D (beeline) against T (drive time) over 2105 candidates: 0.990
+front old 233, front new 153, on both 137 (59% of the old)
+
+named variants: D km | T min | front old | front new
+  Status quo                               0.00   0.00  yes  yes
+  Intramax k=1                            15.31  16.07  yes  yes
+  Intramax k=2                            14.98  15.15  yes  yes
+  Intramax k=4                            11.64   9.33  yes  yes
+  Intramax k=8                             4.93   5.19  yes  yes
+  Intramax k=10                            4.12   4.63  yes  yes
+  Intramax k=19                            2.42   2.52  yes  yes
+  Intramax k=30                            1.63   1.75  yes  yes
+  Intramax k=40                            1.25   1.33  yes  yes
+  Intramax k=50                            0.92   0.81  yes  yes
+  Intramax k=60                            0.66   0.56  yes  yes
+  Intramax k=70                            0.48   0.35  yes  yes
+  Intramax k=80                            0.19   0.17  yes  yes
+  Intramax k=90                            0.04   0.03  yes  yes
+  Threshold 500                            0.04   0.06  yes  yes
+  Threshold 1000                           0.21   0.26  yes  yes
+  Threshold 2000                           0.54   0.67  yes  yes
+  Threshold 3500                           0.89   0.99  yes  yes
+  Threshold 5000                           1.83   2.27  yes  yes
+  official district                        6.78   8.32  yes  yes
+  official region                         10.44   8.94  yes  yes
+  official planning region                 2.44   2.36  no   yes
+  official care management region          4.89   7.84  yes  yes

@@ -1,0 +1,30 @@
+Infrastructure per head: municipal roads 612, water 850, sewage 851 (infrastructure.py)
+Source: offenerhaushalt RA 2024, population base_amount.fag_pop(2024), forecast pop2050.forecast()
+municipalities with a file: 88 of 96
+
+1. Net per inhabitant by size class: class | municipalities | total median [P10, P90] | operating median [P10, P90]
+  0-1,000 | 30 | 114 [-119, 593] | 36 [-74, 204]
+  1,000-2,000 | 16 | 90 [-45, 249] | 8 [-59, 85]
+  2,000-3,500 | 18 | 72 [-109, 445] | -27 [-117, 112]
+  3,500-5,000 | 8 | -65 [-214, 284] | -63 [-132, 4]
+  5,000-10,000 | 7 | -32 [-71, 157] | -98 [-118, -42]
+  10,000-inf | 9 | 75 [-68, 149] | -36 [-175, 30]
+  all | 88 | 55 [-121, 466] | -10 [-110, 133]
+  smallest class operating against all: -455.1%
+  because the median of all is negative, the difference: operating +47 EUR per inhabitant, total +59
+
+2. Spearman operating per inhabitant against growth 2026-2050: rho -0.21, p 0.047
+
+3. Denominator effect, costs fixed at 2024: class | operating per inhabitant 2026 | 2050 | change (weighted)
+  0-1,000 | 69 | 74 | +7.2%
+  1,000-2,000 | 18 | 18 | +0.8%
+  2,000-3,500 | -18 | -18 | -1.7%
+  3,500-5,000 | -60 | -56 | -6.6%
+  5,000-10,000 | -85 | -82 | -3.3%
+  10,000-inf | -42 | -41 | -4.2%
+
+4. Redistribution inside the units, operating: partition | units (all with a file) | costs in them m | volume m | share | units without full data
+  Threshold 2000 | 18 | -2.7 | 1.65 | -60.2% | 5 | against the sum of absolute amounts 19.7%
+  Threshold 3500 | 18 | -3.8 | 2.56 | -67.1% | 6 | against the sum of absolute amounts 24.7%
+  Threshold 5000 | 12 | -3.6 | 3.13 | -87.8% | 5 | against the sum of absolute amounts 34.6%
+  official planning region | 7 | -2.0 | 2.80 | -138.0% | 6 | against the sum of absolute amounts 36.0%

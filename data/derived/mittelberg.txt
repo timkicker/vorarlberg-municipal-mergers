@@ -1,0 +1,11 @@
+Threshold rule without neighbours for Mittelberg (mittelberg.py)
+
+Mittelberg 4,794 inhabitants (basis administration_2016_2019), removed neighbours: Bezau, Egg, Schoppernau, Schröcken, Warth
+
+threshold | E F T main | E F T variant | E F T robustness 5 (only taken out) | municipalities with another unit
+  2000 |  3.24 0.024  0.67 |  3.24 0.024  0.67 |  3.24 0.024  0.67 | 0: 
+  3500 |  3.73 0.041  0.99 |  3.73 0.041  0.99 |  3.73 0.041  0.99 | 0: 
+  5000 |  4.12 0.094  2.27 |  4.07 0.094  1.60 |  4.07 0.094  1.60 | 10: Au, Bezau, Bizau, Mellau, Mittelberg, Reuthe, Schnepfau, Schoppernau, Schröcken, Warth
+     new unit 8,526 inhabitants: Au, Bezau, Bizau, Mellau, Reuthe, Schnepfau, Schoppernau, Schröcken, Warth
+     new unit 4,794 inhabitants: Mittelberg
+     old unit 13,321 inhabitants: Au, Bezau, Bizau, Mellau, Mittelberg, Reuthe, Schnepfau, Schoppernau, Schröcken, Warth

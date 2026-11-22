@@ -1,0 +1,26 @@
+1. threshold rules without condition: units with a merger | of these not acceptable voluntarily (20 %, 15 min) | share of inhabitants in them
+   Threshold 2000: 23 | 18 | 25.9%
+   Threshold 3500: 24 | 17 | 30.1%
+   Threshold 5000: 17 | 14 | 40.9%
+
+2./3. threshold rule with condition | share | minutes | k | below threshold | E m EUR (share of without condition) | F | T min | without contested election
+   Threshold 2000 without condition        51    -   3.24 (100%)  0.024   0.67  5.8%
+   Threshold 2000 20%   15 min main case  67   17   2.02 (63%)  0.011   0.38  9.9%
+   Threshold 2000 10%   15 min switch     56    5   2.70 (83%)  0.019   0.54  7.1%
+   Threshold 2000 30%   15 min switch     73   23   1.72 (53%)  0.008   0.30  11.3%
+   Threshold 2000 20%   10 min switch     70   21   1.90 (59%)  0.010   0.28  10.3%
+   Threshold 2000 20%   25 min switch     66   16   2.10 (65%)  0.011   0.41  9.8%
+   Threshold 3500 without condition        40    -   3.73 (100%)  0.041   0.99  2.7%
+   Threshold 3500 20%   15 min main case  57   22   2.51 (67%)  0.026   0.67  7.0%
+   Threshold 3500 10%   15 min switch     49   11   3.07 (82%)  0.028   0.74  5.0%
+   Threshold 3500 30%   15 min switch     63   30   2.21 (59%)  0.021   0.61  8.3%
+   Threshold 3500 20%   10 min switch     60   29   2.38 (64%)  0.028   0.61  7.7%
+   Threshold 3500 20%   25 min switch     56   21   2.59 (69%)  0.026   0.70  7.0%
+   Threshold 5000 without condition        27    -   4.12 (100%)  0.094   2.27  0.7%
+   Threshold 5000 20%   15 min main case  53   30   2.65 (64%)  0.038   0.82  6.4%
+   Threshold 5000 10%   15 min switch     44   22   3.22 (78%)  0.049   0.91  4.3%
+   Threshold 5000 30%   15 min switch     60   36   2.32 (56%)  0.030   0.71  7.8%
+   Threshold 5000 20%   10 min switch     57   35   2.49 (60%)  0.036   0.71  7.2%
+   Threshold 5000 20%   25 min switch     52   29   2.73 (66%)  0.038   0.85  6.3%
+
+Status quo: without contested election predicted 15.1%

@@ -1,0 +1,35 @@
+FAG test on Styria 2015 (styria_fag.py)
+
+Rest per unit of the graded key 2016, approximated from 155 unchanged Styrian units up to 10,000: 456.5 EUR
+
+1. Per unit: prediction against measurement, EUR per inhabitant
+  Unit | pop 2016 | predecessors | tax shares 2013 predecessors | prediction extra share | prediction key | prediction % | measured % against unchanged small
+  60344 | 11,431 | 6 | 697 | +72.4 | +33.7 | +15.2% | +12.0%
+  60664 | 12,826 | 4 | 715 | +72.4 | +29.4 | +14.2% | +13.6%
+  60669 | 10,671 | 2 | 686 | +72.4 | +30.7 | +15.0% | +14.0%
+  61053 | 11,531 | 3 | 703 | +72.4 | +33.5 | +15.1% | +11.5%
+  61631 | 10,032 | 2 | 792 | +30.9 | -3.8 | +3.4% | -1.0%
+  61760 | 10,264 | 5 | 706 | +72.5 | +41.7 | +16.2% | +13.7%
+  61766 | 11,347 | 2 | 676 | +72.4 | +26.1 | +14.6% | +15.5%
+  62040 | 10,060 | 3 | 745 | +72.2 | +2.9 | +10.1% | +7.5%
+  62379 | 13,113 | 7 | 707 | +72.4 | +32.1 | +14.8% | +12.9%
+  Mean: prediction +13.2%, measured +11.1%
+  Prediction without the loss of the overnight stay share of the beverage tax compensation; prices 2015, measurement 2016-19.
+
+2. Difference in differences, tax shares per inhabitant, log
+  crossed 10,000 (9), Styrian control: +11.2% (+7.3% to +14.0%)
+  crossed 10,000 (9), combined control group: +11.2% (+7.3% to +13.8%)
+  merged under 10,000 (111), Styrian control: -0.2% (-0.8% to +0.3%)
+  merged under 10,000 (111), combined control group: -0.3% (-0.8% to +0.1%)
+  predecessor over 10,000 (3), Styrian control: +1.6% (+0.0% to +2.5%)
+  predecessor over 10,000 (3), combined control group: +1.5% (+0.0% to +2.4%)
+
+3. Event study, units that crossed 10,000 against unchanged Styrian units, reference 2014, log
+  2010: +1.7% (+0.2% to +3.0%)
+  2011: +2.5% (+1.5% to +3.4%)
+  2012: +0.4% (-0.1% to +0.9%)
+  2013: -0.2% (-0.6% to +0.2%)
+  2016: +12.4% (+9.0% to +14.9%)
+  2017: +11.6% (+7.1% to +15.3%)
+  2018: +12.4% (+8.5% to +15.5%)
+  2019: +12.3% (+8.0% to +15.8%)

@@ -1,0 +1,15 @@
+Partitions with the outside node (cuts_outside.py)
+
+out-commuters to outside in the row totals: 22,009
+
+partition | ARI to the base case | municipalities with a changed unit | units base case / new
+  Intramax k=4 | 1.000 | 0 | 4 / 4
+  Intramax k=8 | 0.991 | 16 | 8 / 8
+  Intramax k=10 | 0.988 | 16 | 10 / 10
+  Intramax k=19 | 0.995 | 5 | 19 / 19
+  Threshold 2000 | 0.982 | 4 | 51 / 51
+  Threshold 3500 | 1.000 | 0 | 40 / 40
+  Threshold 5000 | 1.000 | 0 | 27 / 27
+
+changed units of the thresholds:
+  Threshold 2000: gone Lorüns, St. Anton im Montafon, Vandans; Bartholomäberg | new Lorüns, Vandans; Bartholomäberg, St. Anton im Montafon

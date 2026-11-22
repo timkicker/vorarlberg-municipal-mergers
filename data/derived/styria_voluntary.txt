@@ -1,0 +1,17 @@
+Styria by legal form of the merger (styria_voluntary.py)
+Names from the StGsrG: 58, assigned 58, without a unique match: none
+  statute: 53 units in panel, mean population 2014 5,456
+  voluntary: 70 units in panel, mean population 2014 3,839
+  named in the statute but not a merged unit in the panel: ['61055', '62265', '62274', '62277', '62388']
+
+core administration net per inhabitant, log
+  Styrian control (n 279): statute -0.148 [-0.199, -0.099] (-13.8%); voluntary -0.142 [-0.186, -0.101] (-13.2%); difference -0.006 [-0.062, +0.047] (-0.6%)
+  combined control group, year x size tercile (n 1956): statute -0.050 [-0.096, -0.008] (-4.9%); voluntary -0.045 [-0.081, -0.008] (-4.4%); difference -0.005 [-0.058, +0.048] (-0.5%)
+
+ordinary spending per inhabitant, log
+  Styrian control (n 279): statute -0.030 [-0.050, -0.010] (-3.0%); voluntary -0.037 [-0.058, -0.019] (-3.7%); difference +0.008 [-0.016, +0.030] (+0.8%)
+  combined control group, year x size tercile (n 1956): statute -0.030 [-0.049, -0.014] (-3.0%); voluntary -0.040 [-0.056, -0.024] (-3.9%); difference +0.010 [-0.015, +0.032] (+1.0%)
+
+section 94 per inhabitant, EUR
+  Styrian control (n 279): statute -3.2 [-15.9, +9.5]; voluntary -4.0 [-15.4, +7.9]; difference +0.8 [-12.5, +13.8]
+  combined control group, year x size tercile (n 1956): statute -5.9 [-16.0, +3.6]; voluntary -10.0 [-19.5, -1.0]; difference +4.2 [-9.1, +16.8]

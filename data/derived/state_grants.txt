@@ -1,0 +1,14 @@
+Size steps of the state guideline on state grants per partition (state_grants.py), m euro per year
+
+Today: base amount 14.4, central place 2.0, village parts (not known, 0)
+
+Partition | units | base amount | change | central place | change | village parts at most | total change
+Threshold 2000 | 51 | 4.2 | -10.2 | 2.2 | +0.2 | +5.2 | -10.0 to -4.8
+Threshold 3500 | 40 | 1.5 | -12.9 | 2.2 | +0.2 | +5.4 | -12.7 to -7.3
+Threshold 5000 | 27 | 0.0 | -14.4 | 2.7 | +0.6 | +2.1 | -13.8 to -11.7
+official planning region | 19 | 0.2 | -14.2 | 3.0 | +1.0 | +0.6 | -13.2 to -12.6
+official region | 8 | 0.3 | -14.1 | 1.0 | -1.1 | +0.6 | -15.2 to -14.6
+official district | 4 | 0.0 | -14.4 | 1.2 | -0.8 | +0.0 | -15.2 to -15.2
+
+The total of the strengthening funds is fixed. Every change goes into the residual item (§ 4 item 9)
+and shifts money between municipalities. Village parts: upper bound assuming every predecessor has a compulsory school.

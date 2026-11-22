@@ -1,0 +1,36 @@
+Part 1: named variants | k | M share of inhabitants as a small part (<20 %) | R largest ratio | H units with a partner >50 %
+  Status quo                          96  M 0.0%  R     1.0  H   0
+  Intramax k=4                         4  M 86.2%  R   214.7  H   0
+  Intramax k=8                         8  M 53.8%  R    93.9  H   1
+  Intramax k=10                       10  M 45.8%  R    81.3  H   1
+  Intramax k=19                       19  M 28.3%  R    49.7  H   1
+  Intramax k=30                       30  M 16.3%  R    49.7  H   7
+  Intramax k=40                       40  M 11.2%  R    22.3  H   6
+  Intramax k=50                       50  M 7.0%  R    17.2  H   8
+  Intramax k=60                       60  M 4.7%  R    17.2  H   7
+  Intramax k=70                       70  M 1.7%  R     5.2  H   7
+  Intramax k=80                       80  M 0.5%  R     5.2  H   8
+  Intramax k=90                       90  M 0.0%  R     2.7  H   6
+  Threshold 500                       84  M 0.5%  R    49.2  H  11
+  Threshold 1000                      68  M 1.8%  R    49.2  H  15
+  Threshold 2000                      51  M 4.8%  R    49.2  H  17
+  Threshold 3500                      40  M 6.9%  R    49.2  H  15
+  Threshold 5000                      27  M 14.7%  R    49.2  H   7
+  official district                    4  M 61.9%  R   214.7  H   1
+  official region                      8  M 89.5%  R   120.6  H   0
+  official planning region            19  M 23.5%  R    49.7  H   2
+  official care management region      9  M 49.7%  R    81.3  H   3
+
+Part 2: threshold rule with a cap on the size ratio | k | below threshold | E m EUR (factor 0.57) | F | D km | M | R | without contested election
+  Threshold 2000 cap  none   51    0    3.24 (100%)  0.024   0.54  4.8%    49.2  5.8%
+  Threshold 2000 cap    10   52    0    3.20 (99%)  0.020   0.57  5.0%     9.1  6.1%
+  Threshold 2000 cap     5   56    3    2.97 (92%)  0.019   0.51  3.2%     5.0  7.4%
+  Threshold 2000 cap     3   63   10    2.47 (76%)  0.011   0.38  1.5%     2.9  9.0%
+  Threshold 3500 cap  none   40    0    3.73 (100%)  0.041   0.89  6.9%    49.2  2.7%
+  Threshold 3500 cap    10   40    0    3.74 (100%)  0.037   1.10  7.1%     9.1  2.6%
+  Threshold 3500 cap     5   41    4    3.63 (97%)  0.046   1.11  8.1%     5.0  3.2%
+  Threshold 3500 cap     3   47   12    3.23 (87%)  0.034   1.27  3.5%     2.9  4.4%
+  Threshold 5000 cap  none   27    0    4.12 (100%)  0.094   1.84  14.7%    49.2  0.7%
+  Threshold 5000 cap    10   29    0    4.17 (101%)  0.062   2.59  12.4%     9.2  0.9%
+  Threshold 5000 cap     5   33    6    3.90 (95%)  0.080   1.68  10.7%     5.0  2.0%
+  Threshold 5000 cap     3   41   13    3.46 (84%)  0.048   1.68  4.9%     2.9  3.5%

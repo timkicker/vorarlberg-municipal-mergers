@@ -1,0 +1,30 @@
+Without 2014 and against the other states alone (styria_no2014.py)
+Styria 279 units (123 merged), other states 1677, cleaned 275
+
+ordinary spending per inhabitant, log
+  Styrian control, with 2014: log -0.034 [-0.050, -0.018] (-3.4%, -4.8% to -1.8%), n 279, dropped 0
+  Styrian control, without 2014: log -0.022 [-0.040, -0.005] (-2.2%, -3.9% to -0.5%), n 279, dropped 0
+  combined control group, year x size tercile, with 2014: log -0.036 [-0.048, -0.024] (-3.5%, -4.7% to -2.3%), n 1956, dropped 0
+  combined control group, year x size tercile, without 2014: log -0.028 [-0.041, -0.015] (-2.7%, -4.0% to -1.4%), n 1956, dropped 0
+  other states alone, year x size tercile, with 2014: log -0.037 [-0.050, -0.024] (-3.6%, -4.9% to -2.4%), n 1800, dropped 0
+  other states alone, year x size tercile, without 2014: log -0.028 [-0.042, -0.015] (-2.8%, -4.1% to -1.5%), n 1800, dropped 0
+
+ordinary revenue per inhabitant, log
+  Styrian control, with 2014: log -0.028 [-0.045, -0.012] (-2.8%, -4.4% to -1.2%), n 279, dropped 0
+  Styrian control, without 2014: log -0.020 [-0.036, -0.002] (-1.9%, -3.5% to -0.2%), n 279, dropped 0
+  combined control group, year x size tercile, with 2014: log -0.030 [-0.043, -0.018] (-3.0%, -4.2% to -1.8%), n 1956, dropped 0
+  combined control group, year x size tercile, without 2014: log -0.026 [-0.040, -0.012] (-2.6%, -4.0% to -1.2%), n 1956, dropped 0
+  other states alone, year x size tercile, with 2014: log -0.030 [-0.043, -0.018] (-3.0%, -4.2% to -1.7%), n 1800, dropped 0
+  other states alone, year x size tercile, without 2014: log -0.027 [-0.041, -0.013] (-2.7%, -4.0% to -1.3%), n 1800, dropped 0
+
+subsection 000 net per inhabitant, EUR
+  Styrian control, with 2014: -26.0 EUR per inhabitant [-28.4, -23.4], n 279, dropped 0
+  Styrian control, without 2014: -25.4 EUR per inhabitant [-27.8, -22.8], n 279, dropped 0
+  combined control group, year x size tercile, with 2014: -12.7 EUR per inhabitant [-15.0, -10.6], n 1956, dropped 0
+  combined control group, year x size tercile, without 2014: -8.7 EUR per inhabitant [-10.9, -6.7], n 1956, dropped 0
+  other states alone, year x size tercile, with 2014: -11.9 EUR per inhabitant [-14.2, -9.5], n 1800, dropped 0
+  other states alone, year x size tercile, without 2014: -7.6 EUR per inhabitant [-9.8, -5.7], n 1800, dropped 0
+
+ordinary spending, cleaned panel, Styrian control
+  with 2014: log -0.036 [-0.052, -0.020] (-3.5%, -5.0% to -1.9%), n 275, dropped 0
+  without 2014: log -0.024 [-0.042, -0.006] (-2.4%, -4.1% to -0.6%), n 275, dropped 0

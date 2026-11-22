@@ -1,0 +1,16 @@
+Styrian checks on the cleaned panel (styria_checks.py)
+Panel 275 units, merged 123, without ['61055', '62205', '62265', '62274']
+1 main net (n = 275, merged 123): log -0.149 [-0.186, -0.113]  i.e. -13.9% (-17.0% to -10.7%)  deviation from main +0%
+   Event study (reference 2014): 2010: -0.042 [-0.085, +0.001]  2011: -0.024 [-0.070, +0.024]  2012: -0.046 [-0.086, -0.007]  2013: -0.039 [-0.072, -0.000]  2016: -0.155 [-0.207, -0.099]  2017: -0.180 [-0.241, -0.127]  2018: -0.159 [-0.237, -0.056]  2019: -0.223 [-0.274, -0.173]
+2 net without 2014 (n = 275, merged 123): log -0.142 [-0.180, -0.102]  i.e. -13.2% (-16.5% to -9.7%)  deviation from main -5%
+   Event study (reference 2013): 2010: -0.003 [-0.037, +0.031]  2011: +0.015 [-0.020, +0.053]  2012: -0.007 [-0.036, +0.020]  2016: -0.116 [-0.158, -0.073]  2017: -0.142 [-0.200, -0.092]  2018: -0.120 [-0.191, -0.016]  2019: -0.184 [-0.228, -0.141]
+3 gross (n = 275, merged 123): log -0.142 [-0.188, -0.096]  i.e. -13.2% (-17.1% to -9.2%)  deviation from main -5%
+4 gross without 2014 (n = 275, merged 123): log -0.118 [-0.163, -0.072]  i.e. -11.1% (-15.1% to -6.9%)  deviation from main -21%
+5 weighted by population 2014 (n = 275, merged 123): log -0.120 [-0.153, -0.084]  i.e. -11.3% (-14.2% to -8.1%)  deviation from main -20%
+6a year x Styrian size tercile (n = 275, merged 123): log -0.135 [-0.183, -0.085]  i.e. -12.6% (-16.7% to -8.1%)  deviation from main -10%
+6b same without 2014 (n = 275, merged 123): log -0.122 [-0.168, -0.071]  i.e. -11.4% (-15.5% to -6.8%)  deviation from main -19%
+7a only 1,500 to 6,000 inhabitants (n = 180, merged 91): log -0.134 [-0.185, -0.081]  i.e. -12.6% (-16.9% to -7.8%)  deviation from main -10%
+7b same without 2014 (n = 180, merged 91): log -0.119 [-0.171, -0.066]  i.e. -11.2% (-15.7% to -6.4%)  deviation from main -20%
+8 without split predecessors (n = 271, merged 119): log -0.148 [-0.186, -0.110]  i.e. -13.8% (-17.0% to -10.4%)  deviation from main -1%
+9a combined control group, year x size tercile (n = 1952, merged 123): log -0.047 [-0.076, -0.020]  i.e. -4.6% (-7.3% to -2.0%)  deviation from main -68%
+9b same without 2014 (n = 1952, merged 123): log -0.020 [-0.049, +0.010]  i.e. -2.0% (-4.8% to +1.0%)  deviation from main -87%

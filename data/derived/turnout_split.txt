@@ -1,0 +1,11 @@
+Turnout in Styria by kind of merger (turnout_split.py), valid votes per eligible voter, units 279, dropped {'dropped as in styria_elections': 7, 'election missing': 1}
+
+Legal form: by statute n 53, voluntary n 69, unchanged n 157
+  by statute: -2.19 [-3.31, -1.05] percentage points
+  voluntary: -2.25 [-3.30, -1.17] percentage points
+  difference by statute minus voluntary: +0.06 [-1.33, +1.44]
+
+Number of predecessors: two n 58, three or more n 64, unchanged n 157
+  two: -1.69 [-2.90, -0.42] percentage points
+  three or more: -2.71 [-3.69, -1.64] percentage points
+  difference two minus three or more: +1.03 [-0.38, +2.45]

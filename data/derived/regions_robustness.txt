@@ -1,0 +1,8 @@
+Intramax regions, adjusted Rand index against the main result (regions.py)
+flows changed at random by up to 10%: 20 runs, seed 12345
+
+regions | no diagonal | with point contacts | flows changed, min / median
+4 | 0.61 | 1.00 | 0.93 / 0.97
+8 | 0.78 | 1.00 | 0.75 / 0.96
+10 | 0.75 | 1.00 | 0.66 / 0.76
+19 | 0.63 | 1.00 | 0.90 / 0.95

@@ -1,0 +1,13 @@
+Structural fund FAG 2024 § 26 per partition with the BMF inputs (transfer 2024)
+benchmarks: development 1.3435%, dependency ratio 0.5678, fiscal strength 383.68 EUR per inhabitant
+control: sum of positive amounts from the sheet 46,124,868, recomputed 46,124,868
+
+Partition | units | positive sum Vorarlberg | state share EUR | change EUR | change %
+(Status quo against paid out: 1,309,551 against 1,309,551)
+Status quo | 96 | 503,357 | 1,309,551 | +0 | +0%
+Threshold 2000 | 51 | 276,009 | 721,631 | -587,920 | -45%
+Threshold 3500 | 40 | 92,451 | 242,685 | -1,066,867 | -81%
+Threshold 5000 | 27 | 4,821 | 12,680 | -1,296,871 | -99%
+Planning regions | 19 | 0 | 0 | -1,309,551 | -100%
+Regions | 8 | 43,899 | 115,359 | -1,194,192 | -91%
+Districts | 4 | 0 | 0 | -1,309,551 | -100%

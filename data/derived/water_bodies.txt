@@ -1,0 +1,19 @@
+Water associations 2016 (type W) against the partitions (water_bodies.py)
+
+cooperations 27, members per cooperation median 5, range 2 to 12
+
+Partition | units | cooperations entirely inside one unit | share
+  Threshold 2000 | 51 | 3 | 11%
+  Threshold 3500 | 40 | 5 | 19%
+  Threshold 5000 | 27 | 6 | 22%
+  official planning region | 19 | 8 | 30%
+  official region | 8 | 19 | 70%
+  official district | 4 | 18 | 67%
+
+Municipalities in at least one W cooperation, by population 1.1.2024
+  0 to under 1,000 | 32 | 26 | 81%
+  1,000 to under 2,000 | 18 | 12 | 67%
+  2,000 to under 5,000 | 28 | 27 | 96%
+  5,000 to under 10,000 | 8 | 7 | 88%
+  from 10,000 | 10 | 10 | 100%
+  all | 96 | 82 | 85%

@@ -1,0 +1,27 @@
+OSM objects in Vorarlberg: 1249, official childcare: 686
+
+1. share of municipalities with at least one facility, by population 2024
+  class | municipalities | school | primary_school | middle_school | childcare | fire_brigade | town_hall | post_office | doctor_pharmacy | grocery
+  under 1,000 | 32 | 97% | 97% | 3% | 91% | 94% | 100% | 19% | 12% | 62%
+  1,000 to 2,000 | 18 | 100% | 100% | 28% | 100% | 100% | 100% | 50% | 61% | 100%
+  2,000 to 3,500 | 20 | 100% | 100% | 50% | 100% | 100% | 100% | 55% | 90% | 100%
+  3,500 to 7,500 | 14 | 100% | 100% | 93% | 100% | 100% | 93% | 71% | 93% | 100%
+  7,500 to 15,000 | 6 | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+  over 15,000 | 6 | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100%
+  all | 96 | 99% | 99% | 43% | 97% | 98% | 99% | 50% | 60% | 88%
+
+2. check childcare: municipalities with an official facility 93, with OSM kindergarten 59, both 59; facilities official 686, OSM 181
+   municipalities with official, without OSM: Au, Bartholomäberg, Bezau, Bildstein, Bizau, Brand, Buch, Damüls, Doren, Düns, Eichenberg, Hittisau, Hohenweiler, Kennelbach, Langen bei Bregenz, Langenegg, Laterns, Mellau, Möggers, Riefensberg, Satteins, Schnepfau, Schröcken, Schwarzach, Sibratsgfäll, Silbertal, Sonntag, St. Anton im Montafon, St. Gallenkirch, Thüringerberg, Tschagguns, Vandans, Viktorsberg, Übersaxen
+   check schools: municipalities with an official school 95, with OSM school 75
+   without an official school: Stallehr (290)
+   without a primary school: Stallehr (290)
+   without a school in OSM: Bludesch (2655), Brand (773), Buch (589), Düns (427), Dünserberg (149), Eichenberg (419), Fraxern (750), Hittisau (2108), Hohenweiler (1414), Langen bei Bregenz (1531), Lingenau (1586), Möggers (560), Reuthe (682), Riefensberg (1064), Schoppernau (943), Schröcken (211), Stallehr (290), Thüringerberg (738), Vandans (2815), Warth (183), Übersaxen (624)
+   without a fire brigade in OSM: Fraxern (750), Stallehr (290)
+
+3. per partition: share of inhabitants outside the seat whose municipality has a town hall, primary school and fire brigade today (schools official)
+  Threshold 2000: inhabitants outside the seat 37,874, of these with all three 97%
+  Threshold 3500: inhabitants outside the seat 62,417, of these with all three 98%
+  Threshold 5000: inhabitants outside the seat 100,213, of these with all three 99%
+  official planning region: inhabitants outside the seat 153,026, of these with all three 95%
+  official region: inhabitants outside the seat 320,802, of these with all three 98%
+  official district: inhabitants outside the seat 276,931, of these with all three 97%

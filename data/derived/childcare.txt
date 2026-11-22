@@ -1,0 +1,24 @@
+Childcare by municipal size, 2021/22 (childcare.py)
+Source: answer to state parliament question 29.01.322 of 28.07.2022, questions 6 to 10; population for the fiscal equalisation 2022
+rows read: places 463 (total places 17,222, children 17,019), hours 419, open 7:30-17:30 88
+  kindergarten: 255 facilities, places 12,167.0, children 10,459
+  crèche: 161 facilities, places 4,327.0, children 5,592
+  playgroup: 47 facilities, places 728.0, children 968
+statistics number without a valid municipality, assigned by the place column: 2 rows ['Dornbirn-KIBE CAMPUS (Kica)']
+place in the column differs from the place given by the statistics number: 8 rows (the number counts)
+facilities 7:30-17:30 without assignment: 0 []
+municipalities with at least one facility 7:30-17:30: 16 of 96
+
+Class | municipalities | weekly hours kindergarten median (facilities) | crèche | closing days kindergarten | crèche | share of municipalities with 7:30-17:30 | places crèche+playgroup per 1,000 inhabitants | share of municipalities without crèche
+  0-1,000 | 32 | 30.0 (29) | 34.0 (6) | 64.0 | 25.0 | 0% | 7.7 | 84%
+  1,000-2,000 | 18 | 32.5 (21) | 31.0 (12) | 62.0 | 24.5 | 6% | 14.1 | 33%
+  2,000-3,500 | 20 | 42.0 (30) | 45.0 (23) | 23.5 | 20.0 | 10% | 13.6 | 10%
+  3,500-5,000 | 9 | 38.0 (24) | 39.5 (14) | 24.0 | 22.5 | 22% | 10.7 | 11%
+  5,000-10,000 | 7 | 40.0 (31) | 46.1 (20) | 21.0 | 22.0 | 43% | 16.8 | 0%
+  10,000-inf | 10 | 44.5 (120) | 52.0 (89) | 15.0 | 21.0 | 80% | 12.1 | 0%
+  all | 96 | 38.5 (255) | 47.5 (164) | 21.0 | 21.0 | 17% | 12.7 | 38%
+
+Units with at least one facility 7:30-17:30: partition | units | with supply | share | population in units with supply
+  Status quo | 96 | 16 | 17% | 56.9%
+  Threshold 2000 | 51 | 16 | 31% | 59.3%
+  Threshold 3500 | 40 | 15 | 38% | 61.1%

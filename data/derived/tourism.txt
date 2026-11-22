@@ -1,0 +1,36 @@
+Tourism, second homes and altitude (tourism.py)
+
+1. Cost curve net, all of Austria, n 2085, altitude in 100 m
+  without altitude (as costs.py):
+       300 inhabitants: 1.794 (1.691 to 1.882)
+       500 inhabitants: 1.398 (1.364 to 1.428)
+     2,000 inhabitants: 0.760 (0.742 to 0.780)
+     5,000 inhabitants: 0.675 (0.653 to 0.694)
+    10,000 inhabitants: 0.655 (0.631 to 0.680)
+    doubling saves < 5 % from 3,483 inhabitants, bootstrap 95 % 2,626 to 4,721
+  with altitude: altitude +0.0049 log per 100 m [-0.0025, +0.0125]
+       300 inhabitants: 1.780 (1.682 to 1.867)
+       500 inhabitants: 1.391 (1.357 to 1.422)
+     2,000 inhabitants: 0.764 (0.744 to 0.785)
+     5,000 inhabitants: 0.681 (0.657 to 0.703)
+    10,000 inhabitants: 0.663 (0.636 to 0.691)
+    doubling saves < 5 % from 3,335 inhabitants, bootstrap 95 % 2,515 to 4,521
+  change from altitude: 500 inhabitants -0.7 percentage points, threshold -4.3%
+
+2. Vorarlberg residuals of the curve without altitude, n 96
+  log(1 + overnight stays per inhabitant), 2016-19: correlation +0.28, slope +0.057 [+0.010, +0.106], mean 2.45, maximum 6.86
+  further residences per main residence, 2016-19: correlation +0.50, slope +0.837 [+0.750, +1.792], mean 0.12, maximum 2.07
+
+3./4. Elected bodies 2024, n 88; covariates overnight stays 2023 per inhabitant, further residences 2024 per main residence
+  municipalities without residence data: []
+  linear with covariates: a 97,579, b 23.79 per inhabitant, overnight stays per inhabitant -30, further residences per main residence +24,533
+  log-log with covariates: elasticity 0.527, overnight stays per inhabitant +0.0004, further residences per main residence +0.245
+  top quarter of overnight stays: from 48.6 per inhabitant, 22 municipalities left out
+  Savings m | Threshold 2000 | Threshold 3500 | Threshold 5000 | official planning region | official region | official district
+  linear, main model | 4.44 | 5.52 | 6.80 | 7.59 | 8.68 | 9.07
+  log-log, main model | 3.33 | 4.68 | 6.80 | 8.60 | 13.10 | 13.57
+  linear with covariates | 4.47 | 5.56 | 6.85 | 7.63 | 8.72 | 9.13
+  log-log with covariates | 3.28 | 4.55 | 6.67 | 8.32 | 12.86 | 13.41
+  linear without the top quarter of overnight stays | 4.49 | 5.58 | 6.88 | 7.68 | 8.77 | 9.17
+  log-log without the top quarter of overnight stays | 2.98 | 4.22 | 6.22 | 7.97 | 12.56 | 12.95
+  (municipalities without residence data enter the prediction of the covariate runs with 0 further residences)

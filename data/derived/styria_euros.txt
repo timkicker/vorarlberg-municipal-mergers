@@ -1,0 +1,6 @@
+Measured Styrian saving in core administration in m euros (styria_euros.py)
+Units 275, merged 123; net core administration costs of the merged units, mean 2016-2019: 122.1 m euros a year
+
+Run | b | saving m euros a year [from the bounds of the 95 % interval] | share of 40 m
+  cleaned main run | -0.149 | 19.7 [14.2, 25.1] | 49%
+  combined control group | -0.047 | 5.9 [2.3, 9.5] | 15%

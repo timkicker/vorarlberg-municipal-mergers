@@ -1,0 +1,34 @@
+Municipal unions after the merger (unions.txt, unions.py)
+
+unions with at least two assigned members per group: water union (WRG) 22, registry office union 17, administrative partnership 15, school union 14, municipal union (GG) 12
+
+partition | group | unions | (a) wholly in one unit | (b) fewer members | (c) unchanged | memberships before / after
+  Threshold 2000 | municipal union (GG) | 12 | 1 (8%) | 10 | 1 | 224 / 126
+  Threshold 2000 | school union | 14 | 3 (21%) | 9 | 2 | 101 / 58
+  Threshold 2000 | registry office union | 17 | 3 (18%) | 10 | 4 | 84 / 49
+  Threshold 2000 | administrative partnership | 15 | 3 (20%) | 9 | 3 | 193 / 119
+  Threshold 2000 | water union (WRG) | 22 | 1 (5%) | 11 | 10 | 134 / 105
+  Threshold 2000 | all | 80 | 11 (14%) | 49 | 20 | 736 / 457
+
+  Threshold 3500 | municipal union (GG) | 12 | 1 (8%) | 10 | 1 | 224 / 101
+  Threshold 3500 | school union | 14 | 3 (21%) | 9 | 2 | 101 / 47
+  Threshold 3500 | registry office union | 17 | 5 (29%) | 8 | 4 | 84 / 40
+  Threshold 3500 | administrative partnership | 15 | 4 (27%) | 9 | 2 | 193 / 103
+  Threshold 3500 | water union (WRG) | 22 | 3 (14%) | 13 | 6 | 134 / 89
+  Threshold 3500 | all | 80 | 16 (20%) | 49 | 15 | 736 / 380
+
+  Threshold 5000 | municipal union (GG) | 12 | 4 (33%) | 7 | 1 | 224 / 73
+  Threshold 5000 | school union | 14 | 4 (29%) | 9 | 1 | 101 / 40
+  Threshold 5000 | registry office union | 17 | 8 (47%) | 6 | 3 | 84 / 31
+  Threshold 5000 | administrative partnership | 15 | 4 (27%) | 11 | 0 | 193 / 77
+  Threshold 5000 | water union (WRG) | 22 | 3 (14%) | 17 | 2 | 134 / 73
+  Threshold 5000 | all | 80 | 23 (29%) | 50 | 7 | 736 / 294
+
+  official planning region | municipal union (GG) | 12 | 4 (33%) | 7 | 1 | 224 / 51
+  official planning region | school union | 14 | 11 (79%) | 3 | 0 | 101 / 20
+  official planning region | registry office union | 17 | 14 (82%) | 2 | 1 | 84 / 22
+  official planning region | administrative partnership | 15 | 6 (40%) | 8 | 1 | 193 / 52
+  official planning region | water union (WRG) | 22 | 5 (23%) | 16 | 1 | 134 / 51
+  official planning region | all | 80 | 40 (50%) | 36 | 4 | 736 / 196
+
+examples (a) at Threshold 3500: Abwasserverband Bezau; Abwasserverband Rotachtal; Lutzverband Ludesch- Thüringen-Bludesch; Hauptschulverband Großes Walsertal; Schulerhalterverband Hauptschule Sulz-Röthis; Schulerhalterverband Hittisau; Standesamts- und Staatsbürgerschaftsverba nd Bezau; Standesamts- und Staatsbürgerschaftsverba nd Hittisau; Standesamts- und Staatsbürgerschaftsverba nd Hörbranz; Standesamts- und Staatsbürgerschaftsverba nd Satteins; Standesamts- und Staatsbürgerschaftsverba nd Sulzberg; VG Baurechtsverwaltung Großes Walsertal

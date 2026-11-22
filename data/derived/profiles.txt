@@ -1,0 +1,18 @@
+Profile per municipality (profiles.py)
+
+loans 2024 missing for: Viktorsberg (counted as 0)
+
+Threshold 3500: 96 municipalities, of these in units with a merger 80
+  tax shares: worse 56; largest: Warth -765, Damüls -660, Schröcken -389, Lech -303, Brand -283
+  base grant: worse 74; largest: Dünserberg -1,342, Warth -1,093, Schröcken -948, Stallehr -690, Lorüns -664
+  loans: worse 41; largest: Innerbraz +12,531, Dalaas +10,142, Viktorsberg +3,341, Schnepfau +3,142, Bizau +2,721
+  worse in all three: 23: Bartholomäberg, Fontanella, Bludesch, Ludesch, Klösterle, St. Gallenkirch, Schruns, Alberschwende, Schwarzenberg, Mellau, Schoppernau, Schwarzach, Sulzberg, Hittisau, Riefensberg, Sibratsgfäll, Schlins, Übersaxen, Viktorsberg, Weiler, Meiningen, Zwischenwasser, Röthis
+  over 20 minutes to the seat: 3: Warth 32, Schröcken 24, Lech 22
+
+Threshold 5000: 96 municipalities, of these in units with a merger 86
+  tax shares: worse 35; largest: Warth -729, Damüls -615, Schröcken -353, Mittelberg -151, St. Gallenkirch -127
+  base grant: worse 79; largest: Dünserberg -1,342, Warth -1,093, Schröcken -948, Stallehr -690, Lorüns -664
+  loans: worse 42; largest: Innerbraz +4,000, Viktorsberg +3,341, Bürs +3,055, Schnepfau +3,054, Bizau +2,633
+  worse in all three: 14: Bartholomäberg, Lorüns, St. Anton im Montafon, Gaschurn, St. Gallenkirch, Mittelberg, Schoppernau, Schlins, Übersaxen, Viktorsberg, Weiler, Meiningen, Röthis, Zwischenwasser
+  over 20 minutes to the seat: 10: Mellau 47, Reuthe 46, Bezau 46, Bizau 40, Schnepfau 36, Lech 32, Au 30, Schoppernau 24, Damüls 23, Langen bei Bregenz 20
+

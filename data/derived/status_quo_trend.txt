@@ -1,0 +1,15 @@
+Status quo with trend to 2050 (status_quo_trend.py)
+
+1. municipalities below a limit | 2026 | 2050
+  below 1,000 | 32 | 34
+  below 2,000 | 50 | 48
+  below 3,000 | 65 | 63
+
+2. net cost of core administration in the status quo, m EUR a year (curve, scaled)
+  2026 60.73, 2050 along the curve 62.63, 2050 with cost per inhabitant of 2026 62.49
+  size disadvantage 2050 (difference) +0.14
+  of this from shrinking municipalities (41) +0.27
+
+3. base grant of the state guideline in the status quo: 2026 14.4, 2050 14.2 m EUR
+
+4. saving E 2050 of the threshold rules: see population_2050.txt, section 3

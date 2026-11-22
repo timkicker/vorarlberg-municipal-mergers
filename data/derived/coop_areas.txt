@@ -1,0 +1,15 @@
+run all: 254 cooperations
+  planning_region S 0.569  null mean 0.295  null max 0.377  E +0.274  p 0.0010
+  region          S 0.749  null mean 0.493  null max 0.608  E +0.255  p 0.0010
+  k19             S 0.579  null mean 0.319  null max 0.437  E +0.260  p 0.0010
+  k8              S 0.746  null mean 0.526  null max 0.654  E +0.220  p 0.0010
+  D planning_region - k19: +0.015  95 % [-0.002, +0.031]  undecided
+  D region - k8: +0.036  95 % [-0.001, +0.074]  undecided
+
+run without Regios/Leader: 231 cooperations
+  planning_region S 0.593  null mean 0.304  null max 0.388  E +0.289  p 0.0010
+  region          S 0.755  null mean 0.501  null max 0.617  E +0.254  p 0.0010
+  k19             S 0.599  null mean 0.328  null max 0.447  E +0.271  p 0.0010
+  k8              S 0.754  null mean 0.533  null max 0.658  E +0.220  p 0.0010
+  D planning_region - k19: +0.018  95 % [-0.000, +0.037]  undecided
+  D region - k8: +0.033  95 % [-0.002, +0.068]  undecided

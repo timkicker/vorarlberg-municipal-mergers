@@ -1,0 +1,3 @@
+Neighbour pairs, official boundaries against OpenStreetMap (osm_check.py)
+OSM relations with GKZ 96 missing []
+neighbour pairs official 249 OSM 249 common 249

@@ -1,0 +1,35 @@
+Payroll tax inside the merged units (payroll_tax.py)
+Source: BMF, sheet § 26 of the transfer 2026, municipal accounts 2024; population base_amount.fag_pop(2024)
+payroll tax of all municipalities 208.8 m EUR
+
+Partition | units | payroll tax in them m | volume above the per capita share m | share | median highest/lowest per inhabitant | municipalities above the per capita share | their share of population
+  Threshold 2000 | 23 | 67.0 | 7.91 | 11.8% | 3.22 | 27 | 66.2%
+  Threshold 3500 | 24 | 82.1 | 10.95 | 13.3% | 3.05 | 32 | 61.2%
+  Threshold 5000 | 17 | 95.2 | 15.28 | 16.1% | 5.75 | 30 | 47.0%
+  official planning region | 13 | 131.1 | 23.88 | 18.2% | 5.75 | 28 | 42.7%
+
+Five units with the largest volume (m EUR, share of the payroll tax of the unit, members with EUR per inhabitant)
+  Threshold 2000
+    2.04 | 48% | Lech 2,144, Klösterle 677, Dalaas 142, Innerbraz 120
+    0.70 | 8% | Höchst 979, Gaißau 530
+    0.53 | 4% | Wolfurt 1,184, Kennelbach 836
+    0.51 | 19% | Hörbranz 387, Möggers 113, Hohenweiler 30
+    0.51 | 16% | Schwarzach 791, Bildstein 44
+  Threshold 3500
+    2.04 | 48% | Lech 2,144, Klösterle 677, Dalaas 142, Innerbraz 120
+    1.10 | 28% | Klaus 948, Weiler 405, Fraxern 21, Viktorsberg 14
+    0.78 | 18% | Warth 2,295, Reuthe 1,187, Schröcken 521, Au 462, Mellau 459, Bezau 425, Schnepfau 361, Schoppernau 328, Bizau 269
+    0.70 | 8% | Höchst 979, Gaißau 530
+    0.68 | 21% | Frastanz 424, Göfis 118
+  Threshold 5000
+    3.50 | 18% | Lech 2,144, Bürs 970, Nüziders 680, Klösterle 677, Bludenz 549, Brand 519, Bürserberg 411, Stallehr 178, Dalaas 142, Innerbraz 120
+    1.78 | 12% | Wolfurt 1,184, Kennelbach 836, Schwarzach 791, Bildstein 44
+    1.49 | 13% | Höchst 979, Fußach 552, Gaißau 530
+    1.30 | 36% | Röthis 758, Sulz 613, Laterns 127, Zwischenwasser 85
+    1.10 | 28% | Klaus 948, Weiler 405, Fraxern 21, Viktorsberg 14
+  official planning region
+    4.35 | 24% | Klaus 948, Rankweil 825, Röthis 758, Sulz 613, Weiler 405, Meiningen 247, Laterns 127, Zwischenwasser 85, Fraxern 21, Übersaxen 17, Viktorsberg 14
+    4.31 | 14% | Wolfurt 1,184, Kennelbach 836, Schwarzach 791, Lauterach 651, Hard 563, Buch 90, Bildstein 44
+    3.81 | 31% | Nenzing 1,117, Frastanz 424, Schlins 374, Schnifis 293, Satteins 232, Göfis 118, Röns 105, Düns 42, Dünserberg 41
+    2.04 | 48% | Lech 2,144, Klösterle 677, Dalaas 142, Innerbraz 120
+    1.59 | 13% | Götzis 555, Mäder 393, Koblach 361, Altach 257

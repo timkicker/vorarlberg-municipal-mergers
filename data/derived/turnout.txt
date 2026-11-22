@@ -1,0 +1,27 @@
+Turnout (turnout.py)
+
+Vorarlberg 2025: 96 municipalities, turnout overall 54.3 %
+  eligible voters 0 to 750: n 32, turnout 70.0 %
+  eligible voters 750 to 1,500: n 17, turnout 59.1 %
+  eligible voters 1,500 to 3,000: n 23, turnout 57.0 %
+  eligible voters 3,000 to 7,500: n 14, turnout 55.7 %
+  eligible voters 7,500 to inf: n 10, turnout 51.1 %
+  slope per log unit of eligible voters: -5.70 percentage points  95 % [-6.85, -4.73]  (ten times more eligible voters: -13.1)
+  mayoral election einKandidat: invalid 5.7 % of votes cast
+  mayoral election mehrereKandidaten: invalid 4.2 % of votes cast
+
+Vorarlberg 2020: 96 municipalities, turnout overall 53.4 %
+  eligible voters 0 to 750: n 31, turnout 72.4 %
+  eligible voters 750 to 1,500: n 19, turnout 60.2 %
+  eligible voters 1,500 to 3,000: n 23, turnout 58.1 %
+  eligible voters 3,000 to 7,500: n 13, turnout 53.6 %
+  eligible voters 7,500 to inf: n 10, turnout 49.5 %
+  slope per log unit of eligible voters: -6.47 percentage points  95 % [-7.65, -5.45]  (ten times more eligible voters: -14.9)
+  mayoral election einKandidat: invalid 6.5 % of votes cast
+  mayoral election mehrereKandidaten: invalid 4.8 % of votes cast
+
+Styria, valid turnout in per cent: units 279, merged 122, dropped {'dropped as in styria_elections': 7, 'election missing': 1}
+  mean merged: 2005: 79.7  2010: 80.0  2015: 76.4  2020: 65.3  2025: 71.7
+  mean unchanged: 2005: 79.3  2010: 79.2  2015: 76.4  2020: 68.1  2025: 73.6
+  effect -2.23 percentage points  95 % [-3.07, -1.29]
+  event study (reference 2010): 2005: -0.46 [-1.25, +0.28]  2015: -0.88 [-1.64, -0.11]  2020: -3.68 [-4.89, -2.40]  2025: -2.82 [-3.95, -1.72]

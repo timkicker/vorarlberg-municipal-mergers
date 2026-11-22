@@ -1,0 +1,26 @@
+Tourism in the municipal budget 2024, EUR per inhabitant (tourism_budget.py)
+municipalities with a file: 88 of 96, without a file: ['80106', '80108', '80113', '80119', '80126', '80208', '80240', '80408']
+
+1. Tourism net (770, 771): median 32.4, 10th to 90th percentile 0.2 to 625.3, total 25.7 m
+   ten municipalities with the highest amount per inhabitant: 49% of the total; 80239, 80209, 80234, 80105, 80228, 80112, 80120, 80107, 80110, 80109
+   without booking: 6
+   of which contributions to associations (75x in MVAG 32): median 9.2, 10th to 90th percentile 0.0 to 402.9, total 16.0 m
+   guest tax (834) for comparison: median 27.6, 10th to 90th percentile 0.0 to 784.8, total 34.3 m
+   payments for holdings (08x in MVAG 34): 0.28 m in 1 municipalities
+
+2. Harmonisation per partition, units of at least two municipalities, all with a file; threshold 20 EUR per inhabitant
+Partition | units | population share burden rises | population share burden falls | mean size of the change EUR per inhabitant
+  Threshold 2000 | 18 | 21% | 14% | 53.8
+  Threshold 3500 | 18 | 17% | 13% | 45.2
+  Threshold 5000 | 12 | 17% | 14% | 77.0
+  official planning region | 7 | 12% | 10% | 42.0
+  official region | 3 | 50% | 12% | 122.6
+  official district | 1 | 0% | 0% | 0.8
+
+3. Largest rise per partition: municipality, net EUR per inhabitant today and after sharing by head, member with the largest net amount in EUR, per inhabitant
+  Threshold 2000 | Au 373 to 733 | Au 373
+  Threshold 3500 | Schnepfau 75 to 417 | Au 373
+  Threshold 5000 | Schnepfau 75 to 681 | Mittelberg 1139
+  official planning region | Schnepfau 75 to 489 | Damüls 2347
+  official region | Langenegg 25 to 206 | Damüls 2347
+  official district | Dornbirn 0 to 1 | Hohenems 2

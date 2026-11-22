@@ -1,0 +1,26 @@
+Styria 279 units (123 merged), other states 1677
+
+ordinary spending per inhabitant, log
+  Styrian control (n 279, dropped 0): -0.034  95 % [-0.050, -0.018]  i.e. -3.4% (-4.8% to -1.8%)
+  combined control group, year x size tercile (n 1956, dropped 0): -0.036  95 % [-0.048, -0.023]  i.e. -3.5% (-4.7% to -2.3%)
+  summed per inhabitant, 2010-13 -> 2016-19: merged 2,016 -> 2,311 EUR (+295, +14.6%); unchanged 1,847 -> 2,157 EUR (+310, +16.8%); rest of AT 1,959 -> 2,353 EUR (+394, +20.1%)
+
+extraordinary spending per inhabitant, log of the period mean
+  Styrian control (n 279, dropped 0): -0.175  95 % [-0.302, -0.042]  i.e. -16.0% (-26.0% to -4.1%)
+  combined control group, year x size tercile (n 1812, dropped 144): +0.057  95 % [-0.037, +0.157]  i.e. +5.9% (-3.6% to +17.0%)
+  summed per inhabitant, 2010-13 -> 2016-19: merged 425 -> 591 EUR (+166, +39.0%); unchanged 356 -> 585 EUR (+229, +64.3%); rest of AT 377 -> 489 EUR (+111, +29.6%)
+
+ordinary result per inhabitant, EUR
+  Styrian control (n 279, dropped 0): +11.455  95 % [+3.104, +19.832] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +14.208  95 % [+7.845, +20.742] EUR
+  summed per inhabitant, 2010-13 -> 2016-19: merged 14 -> 5 EUR (-9, -65.9%); unchanged 14 -> 6 EUR (-8, -56.6%); rest of AT 12 -> -3 EUR (-15, -122.5%)
+
+debt per inhabitant, EUR
+  Styrian control (n 279, dropped 0): +41.639  95 % [-82.667, +165.875] EUR
+  combined control group, year x size tercile (n 1956, dropped 0): +43.415  95 % [-45.467, +136.142] EUR
+  summed per inhabitant, 2010-13 -> 2016-19: merged 1,461 -> 1,385 EUR (-76, -5.2%); unchanged 1,664 -> 1,522 EUR (-142, -8.5%); rest of AT 1,765 -> 1,619 EUR (-147, -8.3%)
+
+municipal levies without fees per inhabitant, log
+  Styrian control (n 279, dropped 0): -0.015  95 % [-0.051, +0.020]  i.e. -1.5% (-5.0% to +2.0%)
+  combined control group, year x size tercile (n 1956, dropped 0): -0.021  95 % [-0.041, +0.003]  i.e. -2.0% (-4.0% to +0.3%)
+  summed per inhabitant, 2010-13 -> 2016-19: merged 371 -> 443 EUR (+71, +19.2%); unchanged 359 -> 439 EUR (+80, +22.3%); rest of AT 373 -> 457 EUR (+84, +22.6%)

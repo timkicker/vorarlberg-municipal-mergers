@@ -1,0 +1,57 @@
+Sensitivity checks (sensitivity.py)
+
+== Styria with size trends
+units 279 treated 123
+  merged: population 2014 median 3,657, mean 4,536, p10 1,767, p90 8,813
+  unchanged: population 2014 median 1,750, mean 2,323, p10 1,015, p90 4,024
+  predecessors of the merged units: median 1,008
+Styrian size terciles [1785.         3190.33333333]
+main, bootstrap over units: -0.145 [-0.188, -0.106]  clusters 279
+main, year x size tercile within Styria: -0.130 [-0.176, -0.085]  clusters 279
+main without 2014, year x size tercile: -0.116 [-0.163, -0.070]  clusters 279
+common support 1,500-6,000 inhabitants (n 182, merged 91): -0.131 [-0.184, -0.078]
+  same without 2014: -0.115 [-0.162, -0.065]
+
+== State placebo, core administration
+municipalities without change of area under 10,000: Counter({'3': 530, '4': 408, '7': 253, '1': 169, '6': 152, '2': 124, '5': 111, '8': 82})
+state 1 (n 169) against the rest without Styria: with 2014 +0.082, without 2014 +0.081
+state 2 (n 124) against the rest without Styria: with 2014 -0.009, without 2014 -0.023
+state 3 (n 530) against the rest without Styria: with 2014 -0.013, without 2014 -0.015
+state 4 (n 408) against the rest without Styria: with 2014 -0.083, without 2014 -0.084
+state 5 (n 111) against the rest without Styria: with 2014 +0.060, without 2014 +0.068
+state 6 (n 152) against the rest without Styria: with 2014 +0.101, without 2014 +0.121
+state 7 (n 253) against the rest without Styria: with 2014 +0.038, without 2014 +0.045
+state 8 (n 82) against the rest without Styria: with 2014 +0.062, without 2014 +0.070
+
+== State placebo, ordinary spending
+state 1: -0.048
+state 2: -0.012
+state 3: +0.020
+state 4: -0.020
+state 5: -0.021
+state 6: -0.007
+state 7: +0.029
+state 8: +0.046
+SD over the 7 other states 0.033
+
+== Turnout with size trends
+units 279 merged 122
+  merged: eligible voters 2015 median 3,038
+  unchanged: eligible voters 2015 median 1,522
+as turnout.py: (np.float64(-2.226432702560645), np.float64(-3.115151014655015), np.float64(-1.3316501188938143))
+year x size tercile by eligible voters 2015: -1.47 [-2.53, -0.47]; 2015 -0.03, extra 2020 -2.23, extra 2025 -2.12
+year x size tercile by eligible voters 2010 (sum of the predecessors): -1.44 [-2.55, -0.39]
+common support 1,200-5,000 eligible voters 2015 (n 189, merged 92): -1.38 [-2.42, -0.40]
+mean log(eligible voters unit / mean predecessor) 1.03; Vbg slope -5.7 x that = -5.8 pp
+
+== Upper end of the cost curve
+from  10,000 inhabitants:  86 municipalities, of which statutory cities 12
+from  20,000 inhabitants:  24 municipalities, of which statutory cities 10
+from  50,000 inhabitants:   8 municipalities, of which statutory cities 8
+from 100,000 inhabitants:   4 municipalities, of which statutory cities 4
+Vorarlberg largest: [(29302, '80207'), (32578, '80404'), (48327, '80301')]
+statutory cities n 13 smallest 1919.0
+as costs.py: n 2088, knots [48, 1134, 1802, 3118, 280327], c(500)=1.39, c(3000)=0.71, c(10000)=0.65, c(50000)=0.69, c(100000)=0.72
+without statutory cities: n 2075, knots [48, 1127, 1793, 3076, 48327], c(500)=1.39, c(3000)=0.70, c(10000)=0.66, c(50000)=0.78, c(100000)=0.85
+without log area: n 2088, knots [48, 1134, 1802, 3118, 280327], c(500)=1.38, c(3000)=0.71, c(10000)=0.66, c(50000)=0.70, c(100000)=0.74
+without municipalities from 50,000: n 2080, knots [48, 1129, 1794, 3088, 48327], c(500)=1.39, c(3000)=0.70, c(10000)=0.66, c(50000)=0.77, c(100000)=0.84

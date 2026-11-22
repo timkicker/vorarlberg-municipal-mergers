@@ -1,0 +1,10 @@
+Strengthening funds 2024: 88 municipalities from sub-section 940/account 861, 8 from the table of question 29.01.017 (all state grants, too high): Buch, Bürs, Dalaas, Götzis, Lech, St. Anton im Montafon, Thüringen, Wolfurt
+sum of the 88 from offenerhaushalt 28.73 m, state total according to the annual accounts report of the state 29.85 m
+
+Partition | FAG gain merged | strengthening funds of the predecessors | upper bound claw-back | share of the gain | grants beside the base amount | upper bound beside the base amount | share | change of the base amount (state_grants.txt)
+Threshold 2000 | +3.6 | 0.5 | 0.5 | 14% | 0.2 | 0.2 | 5% | -10.2
+Threshold 3500 | +5.2 | 2.3 | 1.7 | 34% | 1.9 | 1.4 | 27% | -12.9
+Threshold 5000 | +18.8 | 15.5 | 9.4 | 50% | 8.4 | 7.0 | 37% | -14.4
+official planning region | +40.7 | 24.2 | 16.4 | 40% | 14.2 | 11.1 | 27% | -14.2
+official region | +65.4 | 25.1 | 20.7 | 32% | 14.7 | 12.4 | 19% | -14.1
+official district | +84.8 | 32.1 | 32.1 | 38% | 17.7 | 17.7 | 21% | -14.4

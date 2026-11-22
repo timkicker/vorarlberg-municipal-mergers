@@ -1,0 +1,20 @@
+Mergers that only just cross the 10,000 limit (border_pairs.py)
+
+pair | population | gain total EUR | per inhabitant | of this from outside, kept by the pair, per inhabitant | in % of tax shares | loss of the other municipalities EUR
+  Ludesch + Nenzing | 10,168 | +1,764,149 | +174 | +0.4 | +15.0% | -1,566,417
+  Nenzing + Nüziders | 11,440 | +1,953,535 | +171 | +0.5 | +14.7% | -1,731,068
+  Nenzing + Frastanz | 13,110 | +2,273,027 | +173 | +0.6 | +15.0% | -2,018,087
+  Fußach + Höchst | 12,358 | +2,205,172 | +178 | +0.5 | +15.5% | -1,964,854
+  Gaißau + Höchst | 10,293 | +1,844,775 | +179 | +0.5 | +15.5% | -1,644,612
+  Hörbranz + Lochau | 13,365 | +2,351,705 | +176 | +0.6 | +15.2% | -2,091,806
+  Kennelbach + Wolfurt | 10,780 | +1,936,110 | +180 | +0.5 | +15.6% | -1,726,477
+  Schwarzach + Wolfurt | 12,742 | +2,282,073 | +179 | +0.6 | +15.5% | -2,034,288
+  Altach + Mäder | 11,216 | +2,027,294 | +181 | +0.5 | +15.7% | -1,809,184
+
+median gain in % of tax shares +15.5%, per inhabitant +178 EUR, pairs 9
+
+municipalities today between 8,000 and 10,000 inhabitants
+  Wolfurt | 8,899 | missing 1,102
+  Höchst | 8,381 | missing 1,620
+
+administrative saving Threshold 5000: 4,116,955 EUR a year, per inhabitant of Vorarlberg 10.0

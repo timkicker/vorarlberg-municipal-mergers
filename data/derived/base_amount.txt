@@ -1,0 +1,32 @@
+Base amount of the strengthening funds, upper bound (base_amount.py)
+
+Control: hospital contributions 2022 against question 29.01.160: 74 municipalities with a file, more than 5 % off or without comparison 10: Bildstein (+26%), Brand (-17%), Eichenberg (+32%), Langen bei Bregenz (no comparison), Nenzing (-33%), Satteins (+16%), Schwarzach (+16%), Sulzberg (-33%), Tschagguns (-7%), Übersaxen (-18%)
+
+municipalities with grants 2024, fiscal strength 2022 and population 31.10.2022: 71
+fiscal strength per inhabitant 2022 (rebuilt): median 1,058, minimum 762, maximum 3,027 euro
+A_max without buffer 1,157 euro per inhabitant, with a buffer of two 1,161 euro per inhabitant
+  binding municipalities (bound per municipality, grants 2024, fiscal strength per inhabitant):
+    Lochau: 1,157; 1,371,853 euro; 878
+    Mäder: 1,160; 419,142 euro; 1,027
+    Hörbranz: 1,161; 746,991 euro; 1,011
+    Koblach: 1,162; 193,224 euro; 1,109
+    Altach: 1,167; 1,084,904 euro; 958
+
+Cross-check 2022 (fiscal strength 2020, population 31.10.2020), municipalities without grants according to the state:
+  Bürs: no file 2020
+  Götzis: fiscal strength per inhabitant 958, so A_2022 at most this much
+  Höchst: fiscal strength per inhabitant 995, so A_2022 at most this much
+  Lustenau: no file 2020
+  Wolfurt: fiscal strength per inhabitant 1,274, so A_2022 at most this much
+
+At A = 1,161: below need 49 of 71, residual item of these municipalities 12.38 m euro = 41% of the state total 2024; their grants 2024 25.09 m
+At A = 1,045: below need 34 of 71, residual item of these municipalities 4.89 m euro = 16% of the state total 2024; their grants 2024 25.09 m
+
+Claw-back through the residual item per partition, only units of at least two municipalities with all data
+Partition | units with data / all | FAG gain of these units | loss at A_max | share | loss at 0.9 A_max | share
+Threshold 2000 | 15 / 23 | -0.50 | -0.04 | n. a. | 0.16 | n. a.
+Threshold 3500 | 15 / 24 | +0.77 | 1.35 | 176% | 0.91 | 119%
+Threshold 5000 | 11 / 17 | +4.13 | 3.42 | 83% | 1.39 | 34%
+official planning region | 6 / 13 | +25.03 | 8.57 | 34% | 3.96 | 16%
+official region | 1 / 7 | +0.49 | 0.37 | 75% | 0.37 | 75%
+official district | 0 / 4 | +0.00 | 0.00 | n. a. | 0.00 | n. a.

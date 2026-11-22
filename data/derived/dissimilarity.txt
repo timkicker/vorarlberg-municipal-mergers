@@ -1,0 +1,11 @@
+Political dissimilarity of the partners, state election 2024 without postal votes (dissimilarity.py)
+
+comparison, each municipality against the state, weighted: 0.084
+
+partition | units | mean against the unit | ratio to the state value | vote share with another first list | three most different predecessors
+  Threshold 2000 | 23 | 0.045 | 0.54 | 1% | Lech 0.24, St. Gerold 0.22, Möggers 0.21
+  Threshold 3500 | 24 | 0.045 | 0.54 | 0% | Lech 0.24, St. Gerold 0.22, Dünserberg 0.22
+  Threshold 5000 | 17 | 0.056 | 0.67 | 4% | Lech 0.36, Fontanella 0.35, Damüls 0.32
+  official planning region | 13 | 0.058 | 0.69 | 4% | Fontanella 0.36, Damüls 0.25, Lech 0.24
+  official region | 7 | 0.060 | 0.72 | 11% | Damüls 0.27, Dünserberg 0.26, Lech 0.24
+  official district | 4 | 0.072 | 0.86 | 11% | Fontanella 0.41, Damüls 0.39, Lech 0.33

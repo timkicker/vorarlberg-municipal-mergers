@@ -1,0 +1,13 @@
+Money balance per partition with E24, m EUR per year (balance_2024.py)
+Ranges: E24 lower to upper bound; state guidelines both ends
+
+Partition | Vorarlberg total | merged units | same with inflow | unchanged municipalities | Austria | municipalities of the other states | one-off m | years to break even, view of Austria | Vorarlberg / Austria
+Threshold 2000 | +3.7 to +6.2 | -3.9 to +3.8 | -3.8 to +3.9 | +2.3 to +7.5 | +3.3 to +5.8 | -0.4 | 3.5 to 14.5 | 0.6 to 4 | 1.1 to 1.1
+Threshold 3500 | +5.3 to +7.9 | -4.4 to +3.6 | -4.2 to +3.8 | +4.1 to +9.5 | +4.7 to +7.3 | -0.6 | 4.6 to 18.9 | 0.6 to 4 | 1.1 to 1.1
+Threshold 5000 | +12.9 to +15.1 | +6.4 to +10.7 | +9.1 to +13.4 | +1.7 to +3.8 | +6.8 to +9.0 | -6.1 | 5.4 to 22.2 | 0.6 to 3 | 1.9 to 1.7
+Planning regions | +28.4 to +32.2 | +21.5 to +25.9 | +33.4 to +37.8 | -5.6 to -5.0 | +7.6 to +11.4 | -20.8 | 6.8 to 27.9 | 0.6 to 4 | 3.7 to 2.8
+Regions | +70.8 to +79.2 | -5.3 to +3.7 | +56.2 to +65.2 | +13.9 to +14.5 | +8.7 to +17.1 | -62.1 | 11.2 to 46.0 | 0.7 to 5 | 8.2 to 4.6
+Districts | +85.9 to +94.3 | -6.1 to +2.3 | +70.7 to +79.1 | +15.2 | +9.1 to +17.5 | -76.8 | 11.4 to 46.5 | 0.7 to 5 | 9.5 to 5.4
+
+Austria: E24 only, the FAG inflow and the state grants are shifts between public budgets.
+one-off: 28 to 115 EUR per inhabitant of the merged units (extraordinary balance, net). Years: low costs / upper savings to high costs / lower savings.

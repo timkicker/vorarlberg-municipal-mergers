@@ -1,0 +1,27 @@
+Investment per inhabitant and year by size, 2020-2024 (investment.py)
+Source: offenerhaushalt RA FHH 2020-2024, MVAG 34 (investment payments), 33 (investment receipts); population base_amount.fag_pop
+municipalities with all five years: 49 of 96; files per year: 2020 70, 2021 72, 2022 74, 2023 88, 2024 88
+
+Class (population 2024) | municipalities | payments 34 median [P10, P90] | receipts 33 median | share 33/34 median
+  0-1,000 | 16 | 1,200 [634, 2,259] | 446 | 48%
+  1,000-2,000 | 8 | 845 [517, 1,428] | 311 | 41%
+  2,000-3,500 | 9 | 885 [478, 1,730] | 339 | 41%
+  3,500-5,000 | 5 | 1,210 [502, 1,777] | 514 | 45%
+  5,000-10,000 | 6 | 921 [678, 1,233] | 290 | 34%
+  10,000-inf | 5 | 741 [598, 1,233] | 312 | 39%
+  all | 49 | 885 [545, 2,094] | 339 | 42%
+
+Spearman population 2024 against payments 34 per inhabitant: rho -0.19, p 0.179
+Spearman population 2024 against share 33/34: rho -0.32, p 0.026
+
+Only 2023-2024, because many files are missing for 2020-2022
+  0-1,000 | 29 | 1,073 [178, 2,367] | share 33/34 median 52%
+  1,000-2,000 | 16 | 717 [278, 1,422] | share 33/34 median 40%
+  2,000-3,500 | 16 | 800 [276, 2,260] | share 33/34 median 40%
+  3,500-5,000 | 8 | 676 [520, 2,009] | share 33/34 median 28%
+  5,000-10,000 | 7 | 923 [529, 1,607] | share 33/34 median 33%
+  10,000-inf | 8 | 822 [604, 1,526] | share 33/34 median 32%
+  all | 84 | 868 [338, 2,237] | share 33/34 median 38%
+  Spearman population against payments 34 per inhabitant: rho -0.07, p 0.547
+
+municipalities without all five years: 47, median population 1,604 against 2,082 with

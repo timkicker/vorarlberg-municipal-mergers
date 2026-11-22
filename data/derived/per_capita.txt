@@ -1,0 +1,11 @@
+Money figures per inhabitant, EUR per year, FAG population 2024, lower variant of the elected bodies (per_capita.py)
+Vorarlberg 405,654 inhabitants
+Regions and districts: state grants the merged units lose shared by population
+
+Partition | population merged | E24 per merged inhabitant | merged units with inflow per merged inhabitant | unchanged municipalities per inhabitant there | Vorarlberg total per inhabitant of Vorarlberg | Austria per inhabitant of Vorarlberg | one-off per merged inhabitant (total)
+Threshold 2000 | 126,110 (31%) | +13 to +46 | -44 to +31 | +8 to +27 | +5 to +15 | +4 to +14 | +28 to +115
+Threshold 3500 | 164,845 (41%) | +14 to +44 | -40 to +23 | +17 to +39 | +7 to +19 | +6 to +18 | +28 to +115
+Threshold 5000 | 193,581 (48%) | +17 to +47 | +29 to +69 | +8 to +18 | +23 to +37 | +8 to +22 | +28 to +115
+Planning regions | 243,358 (60%) | +15 to +47 | +121 to +155 | -35 to -31 | +60 to +79 | +9 to +28 | +28 to +115
+Regions | 400,642 (99%) | +11 to +43 | +167 to +199 | -100 | +163 to +195 | +10 to +42 | +28 to +115
+Districts | 405,654 (100%) | +11 to +43 | +200 to +232 | no municipality | +200 to +232 | +11 to +43 | +28 to +115

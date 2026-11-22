@@ -1,0 +1,14 @@
+Backtest Styria gross without 2014 (styria_gross_no14.py), controls cleaned
+Units 275 (merged 123), other states 1677
+
+1. gross, Styrian control, all years (n = 275)
+  Effect log -0.1420  95 % [-0.185, -0.099]  i.e. -13.2%
+  Event study (reference 2014): 2010: -0.107  2011: -0.113  2012: -0.136  2013: -0.134  2016: -0.200  2017: -0.235  2018: -0.292  2019: -0.232
+
+2. gross, Styrian control, without 2014 (n = 275)
+  Effect log -0.1175  95 % [-0.163, -0.074]  i.e. -11.1%
+  Event study (reference 2013): 2010: +0.027  2011: +0.020  2012: -0.002  2016: -0.066  2017: -0.101  2018: -0.158  2019: -0.098
+
+3. gross, combined control group, year x size tercile, without 2014 (n = 1952)
+  Effect log -0.0231  95 % [-0.063, +0.018]  i.e. -2.3%
+  Event study (reference 2013): 2010: +0.037  2011: +0.039  2012: -0.015  2016: -0.012  2017: -0.021  2018: -0.026  2019: +0.027

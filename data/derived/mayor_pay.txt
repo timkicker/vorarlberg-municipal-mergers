@@ -1,0 +1,9 @@
+Range of mayors' pay per partition (mayor_pay.py)
+Source: ordinance LGBl.Nr. 54/2011 § 1(1) and (2), amounts as of 2011, without the overnight stay supplement
+
+Partition | mayors | sum of floors per month | change | sum of ceilings (units up to 20,000) | units over 20,000
+  Status quo | 96 | 222,616 | +0.0% | 640,018 | 4
+  Threshold 2000 | 51 | 145,576 | -34.6% | 391,169 | 4
+  Threshold 3500 | 40 | 125,106 | -43.8% | 329,383 | 4
+  Threshold 5000 | 27 | 99,795 | -55.2% | 243,309 | 5
+  official planning region | 19 | 75,361 | -66.1% | 107,806 | 9

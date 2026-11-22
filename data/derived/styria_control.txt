@@ -1,0 +1,29 @@
+Is the Styrian control group untreated? (styria_control.py)
+Units Styria 279 (123 merged), other states 1677
+
+1. Core administration net without 000, per inhabitant
+  Styrian control: log -0.035 [-0.075, +0.008] (-3.4%, -7.2% to +0.8%), n 275, dropped 4
+  Combined control group, year x size tercile: log +0.016 [-0.020, +0.053] (+1.6%, -2.0% to +5.4%), n 1919, dropped 37
+  Placebo: Styrian controls against other states, year x size tercile: log +0.047 [+0.016, +0.079] (+4.8%, +1.6% to +8.2%), n 1798, dropped 35
+
+1. Subsection 000 net alone
+  Styrian control: -26.0 EUR per inhabitant [-28.4, -23.6], n 279, dropped 0
+  Combined control group, year x size tercile: -12.7 EUR per inhabitant [-15.0, -10.4], n 1956, dropped 0
+  Placebo: Styrian controls against other states, year x size tercile: +11.0 EUR per inhabitant [+9.7, +12.2], n 1833, dropped 0
+
+Consistency check: core administration net with 000 (backtest)
+  Styrian control: log -0.145 [-0.181, -0.108] (-13.5%, -16.5% to -10.2%), n 279, dropped 0
+  Combined control group, year x size tercile: log -0.047 [-0.075, -0.019] (-4.6%, -7.2% to -1.9%), n 1956, dropped 0
+  Placebo: Styrian controls against other states, year x size tercile: log +0.098 [+0.070, +0.125] (+10.3%, +7.3% to +13.4%), n 1833, dropped 0
+
+2. Main run (net with 000, Styrian control) without the four districts merged in 2012/13
+  dropped 99 units (49 merged)
+  log -0.128 [-0.178, -0.080] (-12.0%, -16.3% to -7.6%), n 180, dropped 0
+
+3. Fixed pot: population share of the merged units in the panel 2014 s = 0.606
+  state grants 2016-19: estimated -10.0, with a fully fixed pot the loss of the merged units themselves -3.9 EUR per inhabitant
+  section 94 2020-24: estimated -35.8, with a fully fixed pot the loss of the merged units themselves -14.1 EUR per inhabitant
+
+4. Subsection 000 net in 2013 and 2014, all units of each group, m EUR (pay law of 2014)
+  merged: 24.4 to 34.4 (+41%), rise +17.9 EUR per inhabitant of 2014
+  unchanged: 12.7 to 18.0 (+42%), rise +14.8 EUR per inhabitant of 2014

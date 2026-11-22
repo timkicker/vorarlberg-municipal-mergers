@@ -1,0 +1,14 @@
+Backtest Styria without subsection 029 office buildings (styria_no_buildings.py), controls cleaned
+Units with 029: 275, without 029: 276 (merged 123), in both: 275
+Share of 029 in gross spending of core administration, merged units (descriptive only):
+  before 2010-2014: 2.0%
+  of which 2014: 2.6%
+  after 2016-2019: 2.3%
+
+1. net without 029, Styrian control, reference 2014 (n = 276)
+  Effect log -0.1489  95 % [-0.184, -0.109]  i.e. -13.8%
+  Event study (reference 2014): 2010: -0.043  2011: -0.023  2012: -0.044  2013: -0.038  2016: -0.151  2017: -0.180  2018: -0.160  2019: -0.224
+
+2. net without 029, Styrian control, without 2014, reference 2013 (n = 276)
+  Effect log -0.1415  95 % [-0.179, -0.101]  i.e. -13.2%
+  Event study (reference 2013): 2010: -0.005  2011: +0.015  2012: -0.006  2016: -0.112  2017: -0.142  2018: -0.122  2019: -0.185

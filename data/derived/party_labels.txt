@@ -1,0 +1,20 @@
+Party lists and local lists by municipal size (party_labels.py)
+
+2025: 96 municipalities
+  eligible voters | municipalities | several lists / one list / majority vote | mean lists | lists with party label | votes for party labels | strongest list with party label | list with ÖVP or Volkspartei
+  0 to under 750 | 32 | 2 / 21 / 9 | 1.1 | 0/25 | 0% | 0/23 | 0/23
+  750 to under 1,500 | 17 | 4 / 9 / 4 | 1.6 | 4/21 | 17% | 2/13 | 2/13
+  1,500 to under 3,000 | 23 | 15 / 8 / 0 | 2.2 | 21/50 | 24% | 3/23 | 4/23
+  3,000 to under 7,500 | 14 | 13 / 1 / 0 | 3.6 | 34/50 | 62% | 7/14 | 6/14
+  from 7,500 | 10 | 10 / 0 / 0 | 5.2 | 42/52 | 78% | 6/10 | 7/10
+  all | 96 | 44 / 39 / 13 | 2.4 | 101/198 | 58% | 18/83 | 19/83
+
+2020: 96 municipalities
+  eligible voters | municipalities | several lists / one list / majority vote | mean lists | lists with party label | votes for party labels | strongest list with party label | list with ÖVP or Volkspartei
+  0 to under 750 | 31 | 8 / 14 / 9 | 1.4 | 3/31 | 9% | 1/22 | 2/22
+  750 to under 1,500 | 19 | 5 / 10 / 4 | 1.7 | 4/25 | 13% | 2/15 | 2/15
+  1,500 to under 3,000 | 23 | 18 / 5 / 0 | 2.5 | 24/57 | 29% | 6/23 | 7/23
+  3,000 to under 7,500 | 13 | 13 / 0 / 0 | 3.8 | 37/50 | 72% | 9/13 | 10/13
+  from 7,500 | 10 | 10 / 0 / 0 | 5.7 | 42/57 | 81% | 9/10 | 9/10
+  all | 96 | 54 / 29 / 13 | 2.7 | 110/220 | 61% | 27/83 | 30/83
+

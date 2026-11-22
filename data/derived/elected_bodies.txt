@@ -1,0 +1,23 @@
+Elected bodies (sub-section 000) in Vorarlberg, closing accounts 2024, net (elected_bodies.py)
+municipalities with file and population: 88 of 96; 000 net below zero: 0
+
+1. euros per inhabitant by size class: municipalities | median per inhabitant | total per inhabitant | median per municipality
+  0-1000 | 30 | 167.4 | 166.9 | 95,224
+  1001-2000 | 16 | 87.8 | 86.2 | 123,441
+  2001-5000 | 26 | 59.3 | 57.5 | 171,539
+  5001-10000 | 7 | 43.6 | 42.6 | 283,673
+  10001-more | 9 | 34.0 | 30.2 | 615,088
+
+2. linear: a = 98,616 euros per municipality, b = 23.80 euros per inhabitant, R² 0.88
+   log-log (only 000 > 0, n 88): elasticity e = 0.493
+
+3. saving per partition, units of at least two municipalities
+partition | units | municipalities in them | inhabitants in them | linear m | log-log m | linear per inhabitant | log-log per inhabitant | observed sum before minus linear prediction after, only units with all files
+Threshold 2000 | 23 | 68 | 126,110 | 4.44 | 3.33 | 35.2 | 26.4 | 18 units: 3.05 m against linear after
+Threshold 3500 | 24 | 80 | 164,845 | 5.52 | 4.68 | 33.5 | 28.4 | 18 units: 3.83 m against linear after
+Threshold 5000 | 17 | 86 | 193,581 | 6.80 | 6.80 | 35.2 | 35.1 | 12 units: 3.75 m against linear after
+official planning region | 13 | 90 | 243,358 | 7.59 | 8.60 | 31.2 | 35.4 | 7 units: 4.00 m against linear after
+official region | 7 | 95 | 400,642 | 8.68 | 13.10 | 21.7 | 32.7 | 3 units: 2.45 m against linear after | models more than 30 % apart
+official district | 4 | 96 | 405,654 | 9.07 | 13.57 | 22.4 | 33.5 | 1 units: 0.08 m against linear after | models more than 30 % apart
+
+4. Styria against the Styrian controls: -26.0 euros per inhabitant (styria_control.txt)

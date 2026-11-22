@@ -1,0 +1,60 @@
+Resort classes under § 9 of the Tourism Act, overnight stays 2024, FAG population 2024 (resort_class.py)
+municipalities today: A 16, B 13, C 67; over 100,000 overnight stays: 24
+
+Partition | units | predecessor falls (municipalities, population) | rises | same | from A to B/C (municipalities, population) | share of population with a change among former A/B | units > 100,000 overnight stays (municipalities in them today > 100,000)
+Threshold 2000 | 23 | 6, 5,731 | 10, 11,007 | 52, 109,372 | 1, 1,256 | 34% | 10 (17)
+Threshold 3500 | 24 | 4, 1,726 | 15, 15,217 | 61, 147,902 | 0, 0 | 27% | 9 (19)
+Threshold 5000 | 17 | 10, 6,156 | 18, 40,902 | 58, 146,523 | 6, 4,430 | 27% | 7 (20)
+official planning region | 13 | 9, 5,087 | 10, 13,630 | 71, 224,641 | 3, 1,827 | 48% | 10 (19)
+official region | 7 | 12, 7,852 | 23, 33,798 | 60, 358,992 | 9, 6,580 | 47% | 7 (23)
+official district | 4 | 23, 28,748 | 14, 42,146 | 59, 334,760 | 16, 23,826 | 76% | 4 (24)
+
+Changes per unit (municipality, class before > after):
+  Threshold 2000 | 132 per inhabitant | Blons C>A, Raggal B>A, St. Gerold C>A, Sonntag B>A, Thüringerberg C>A
+  Threshold 2000 | 102 per inhabitant | Bürs C>A
+  Threshold 2000 | 248 per inhabitant | Dalaas B>A, Innerbraz C>A
+  Threshold 2000 | 34 per inhabitant | Vandans B>C
+  Threshold 2000 | 109 per inhabitant | Silbertal B>A
+  Threshold 2000 | 76 per inhabitant | Bizau C>B, Mellau A>B
+  Threshold 2000 | 13 per inhabitant | Eichenberg B>C
+  Threshold 2000 | 32 per inhabitant | Sibratsgfäll B>C
+  Threshold 2000 | 3 per inhabitant | Dünserberg B>C
+  Threshold 2000 | 11 per inhabitant | Laterns B>C
+  Threshold 3500 | 41 per inhabitant | Lorüns C>B, St. Anton im Montafon C>B
+  Threshold 3500 | 132 per inhabitant | Blons C>A, Raggal B>A, St. Gerold C>A, Sonntag B>A, Thüringerberg C>A
+  Threshold 3500 | 102 per inhabitant | Bürs C>A
+  Threshold 3500 | 248 per inhabitant | Dalaas B>A, Innerbraz C>A
+  Threshold 3500 | 122 per inhabitant | Silbertal B>A
+  Threshold 3500 | 134 per inhabitant | Bezau B>A, Bizau C>A, Reuthe B>A, Schnepfau B>A
+  Threshold 3500 | 13 per inhabitant | Eichenberg B>C
+  Threshold 3500 | 22 per inhabitant | Sibratsgfäll B>C
+  Threshold 3500 | 1 per inhabitant | Dünserberg B>C
+  Threshold 3500 | 11 per inhabitant | Laterns B>C
+  Threshold 5000 | 41 per inhabitant | Lorüns C>B, St. Anton im Montafon C>B
+  Threshold 5000 | 41 per inhabitant | Blons C>B, Bludesch C>B, Fontanella A>B, Ludesch C>B, St. Gerold C>B, Thüringen C>B, Thüringerberg C>B, Damüls A>B
+  Threshold 5000 | 62 per inhabitant | Bludenz C>B, Brand A>B, Bürs C>B, Bürserberg A>B, Innerbraz C>B, Klösterle A>B, Lech A>B, Nüziders C>B, Stallehr C>B
+  Threshold 5000 | 184 per inhabitant | Silbertal B>A
+  Threshold 5000 | 210 per inhabitant | Bezau B>A, Bizau C>A, Reuthe B>A, Schnepfau B>A
+  Threshold 5000 | 18 per inhabitant | Sibratsgfäll B>C
+  Threshold 5000 | 13 per inhabitant | Eichenberg B>C
+  Threshold 5000 | 1 per inhabitant | Dünserberg B>C
+  Threshold 5000 | 6 per inhabitant | Laterns B>C
+  official planning region | 135 per inhabitant | Bartholomäberg B>A, St. Anton im Montafon C>A, Silbertal B>A, Vandans B>A
+  official planning region | 16 per inhabitant | Fontanella A>C, Raggal B>C, Sonntag B>C
+  official planning region | 25 per inhabitant | Brand A>C, Bürserberg A>C
+  official planning region | 248 per inhabitant | Dalaas B>A, Innerbraz C>A
+  official planning region | 5 per inhabitant | Dünserberg B>C
+  official planning region | 164 per inhabitant | Bezau B>A, Bizau C>A, Reuthe B>A, Schnepfau B>A
+  official planning region | 18 per inhabitant | Sibratsgfäll B>C
+  official planning region | 7 per inhabitant | Eichenberg B>C
+  official planning region | 4 per inhabitant | Laterns B>C
+  official region | 130 per inhabitant | Bartholomäberg B>A, Lorüns C>A, St. Anton im Montafon C>A, Silbertal B>A, Stallehr C>A, Vandans B>A
+  official region | 53 per inhabitant | Blons C>B, Fontanella A>B, St. Gerold C>B, Thüringerberg C>B
+  official region | 13 per inhabitant | Brand A>C, Bürserberg A>C, Dünserberg B>C
+  official region | 248 per inhabitant | Dalaas B>A, Innerbraz C>A
+  official region | 61 per inhabitant | Alberschwende C>B, Andelsbuch C>B, Au A>B, Bizau C>B, Damüls A>B, Doren C>B, Egg C>B, Hittisau C>B, Krumbach C>B, Langenegg C>B, Lingenau C>B, Mellau A>B, Riefensberg C>B, Schoppernau A>B, Schröcken A>B, Schwarzenberg C>B, Sulzberg C>B, Warth A>B
+  official region | 5 per inhabitant | Laterns B>C
+  official region | 7 per inhabitant | Eichenberg B>C
+  official district | 67 per inhabitant | Blons C>B, Bludenz C>B, Bludesch C>B, Brand A>B, Bürs C>B, Bürserberg A>B, Fontanella A>B, Gaschurn A>B, Innerbraz C>B, Klösterle A>B, Lech A>B, Lorüns C>B, Ludesch C>B, Nenzing C>B, Nüziders C>B, St. Anton im Montafon C>B, St. Gallenkirch A>B, St. Gerold C>B, Schruns A>B, Stallehr C>B, Thüringen C>B, Thüringerberg C>B, Tschagguns A>B
+  official district | 30 per inhabitant | Au A>C, Bezau B>C, Damüls A>C, Eichenberg B>C, Mellau A>C, Mittelberg A>C, Reuthe B>C, Schnepfau B>C, Schoppernau A>C, Schröcken A>C, Sibratsgfäll B>C, Warth A>C
+  official district | 4 per inhabitant | Dünserberg B>C, Laterns B>C

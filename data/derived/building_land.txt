@@ -1,0 +1,14 @@
+Building land reserves by municipal size (building_land.py)
+
+municipalities with reserves 96, with zoned building land 96, names without assignment: none
+reserves larger than zoned building land: none
+
+Class | municipalities | reserves m2 per inhabitant | zoned building land m2 per inhabitant | reserves in % of zoned building land | reserves without road access in %  (each quartile 1, median, quartile 3)
+  0 to under 1,000 | 32 | 66 / 90 / 137 | 277 / 365 / 477 | 21 / 25 / 30 | 7 / 12 / 17
+  1,000 to under 2,000 | 18 | 56 / 69 / 81 | 261 / 298 / 396 | 16 / 20 / 25 | 10 / 14 / 17
+  2,000 to under 5,000 | 28 | 64 / 75 / 95 | 305 / 349 / 391 | 19 / 23 / 25 | 12 / 15 / 18
+  5,000 to under 10,000 | 8 | 43 / 64 / 71 | 250 / 313 / 348 | 17 / 20 / 22 | 14 / 15 / 19
+  from 10,000 | 10 | 44 / 51 / 57 | 238 / 266 / 275 | 17 / 21 / 21 | 11 / 12 / 14
+  all | 96 | 57 / 72 / 97 | 269 / 334 / 399 | 18 / 22 / 26 | 11 / 14 / 17
+
+State: reserves 24.4 km2, zoned building land 118.4 km2, share 20.7%, per inhabitant 60 m2, without road access 14.1%

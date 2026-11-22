@@ -1,0 +1,21 @@
+Styria before the reform against Vorarlberg (styria_compare.py)
+
+Fees included in the sum of municipal levies: no, larger in 1658 rows, not deducted
+Styria without Graz except for overnight stays. Altitude on the 2020 boundaries, population 2019.
+
+Feature | Styria 2014 | Vorarlberg 2014 | Vorarlberg 2019 | deviation Vbg 2014 | flagged
+  Municipalities | 538 | 96 | 96 | -82% | yes
+  Population | 946,117 | 372,555 | 391,334 | -61% | yes
+  Median population | 1,243 | 1,785 | 1,844 | +44% | yes
+  Municipalities under 1,000 | 38% | 35% | 34% | -2 points | no
+  Municipalities under 2,000 | 75% | 55% | 53% | -19 points | yes
+  Population in municipalities under 2,000 | 42% | 13% | 11% | -29 points | yes
+  Median area km² | 19.1 | 15.7 | 15.7 | -18% | no
+  Inhabitants per km² | 58.1 | 143 | 150 | +146% | yes
+  Altitude, weighted median m | 453 | 440 | 440 | -3% | no
+  Population above 800 m | 6% | 7% | 7% | +1 point | no
+  Tax capacity per inhabitant, median | 984 | 1,333 | 1,525 | +35% | yes
+  Tax capacity per inhabitant, state | 1,157 | 1,561 | 1,828 | +35% | yes
+  Ordinary spending per inhabitant, median | 1,756 | 2,845 | 3,676 | +62% | yes
+  Debt per inhabitant, median | 1,312 | 1,539 | 2,061 | +17% | no
+  Overnight stays per inhabitant, state with Graz | 9.4 | 22.8 | 23.5 | +142% | yes

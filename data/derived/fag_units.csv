@@ -1,0 +1,150 @@
+partition,unit,municipalities,pop,before_eur,after_without_inflow_eur,after_with_inflow_eur,diff_per_capita,members
+Threshold 2000,Bartholomäberg,1,2387,2618585,2598438,2600601,-7.5,Bartholomäberg
+Threshold 2000,Blons,7,3845,4435482,4408429,4411913,-6.1,Blons;Fontanella;Raggal;St. Gerold;Sonntag;Thüringerberg;Damüls
+Threshold 2000,Bludenz,2,15429,18893583,18811584,18826041,-4.4,Bludenz;Stallehr
+Threshold 2000,Bludesch,1,2655,2778234,2755825,2758231,-7.5,Bludesch
+Threshold 2000,Brand,3,4789,5448409,5409788,5414128,-7.2,Brand;Bürs;Bürserberg
+Threshold 2000,Dalaas,4,4962,6280937,6241756,6246253,-7.0,Dalaas;Innerbraz;Klösterle;Lech
+Threshold 2000,Gaschurn,2,3820,5015974,4984632,4988094,-7.3,Gaschurn;St. Gallenkirch
+Threshold 2000,Lorüns,3,3833,4122975,4091523,4094997,-7.3,Lorüns;St. Anton im Montafon;Vandans
+Threshold 2000,Ludesch,1,3727,3900545,3869088,3872465,-7.5,Ludesch
+Threshold 2000,Nenzing,1,6441,6820420,6766056,6771893,-7.5,Nenzing
+Threshold 2000,Nüziders,1,4999,5268543,5226350,5230880,-7.5,Nüziders
+Threshold 2000,Schruns,2,4881,5547884,5507586,5512010,-7.3,Schruns;Silbertal
+Threshold 2000,Thüringen,1,2341,2450296,2430537,2432659,-7.5,Thüringen
+Threshold 2000,Tschagguns,1,2197,2576590,2558046,2560037,-7.5,Tschagguns
+Threshold 2000,Alberschwende,2,3854,4054980,4022451,4025944,-7.5,Alberschwende;Buch
+Threshold 2000,Andelsbuch,2,4556,4845162,4807607,4811736,-7.3,Andelsbuch;Schwarzenberg
+Threshold 2000,Au,4,3213,4006964,3982546,3985457,-6.7,Au;Schoppernau;Schröcken;Warth
+Threshold 2000,Bezau,5,5605,6259750,6216042,6221121,-6.9,Bezau;Bizau;Mellau;Reuthe;Schnepfau
+Threshold 2000,Bildstein,2,4651,4870898,4831642,4835857,-7.5,Bildstein;Schwarzach
+Threshold 2000,Bregenz,1,29643,43674242,43363813,43397144,-9.3,Bregenz
+Threshold 2000,Doren,3,4473,4720661,4684708,4688761,-7.1,Doren;Langen bei Bregenz;Sulzberg
+Threshold 2000,Egg,1,3767,3995124,3963329,3966743,-7.5,Egg
+Threshold 2000,Eichenberg,2,7064,7450324,7391602,7398004,-7.4,Eichenberg;Lochau
+Threshold 2000,Fußach,1,3977,4166146,4132579,4136183,-7.5,Fußach
+Threshold 2000,Gaißau,2,10293,10791954,12549591,12559236,171.7,Gaißau;Höchst
+Threshold 2000,Hard,1,13787,16929917,16809600,16822518,-7.8,Hard
+Threshold 2000,Hittisau,3,3638,3912855,3883949,3887246,-7.0,Hittisau;Riefensberg;Sibratsgfäll
+Threshold 2000,Hörbranz,3,8694,9114698,9042218,9050097,-7.4,Hörbranz;Hohenweiler;Möggers
+Threshold 2000,Kennelbach,2,10780,11296423,13143359,13153460,172.3,Kennelbach;Wolfurt
+Threshold 2000,Krumbach,3,3887,4108054,4077047,4080570,-7.1,Krumbach;Langenegg;Lingenau
+Threshold 2000,Lauterach,1,10531,12931672,12839769,12849637,-7.8,Lauterach
+Threshold 2000,Mittelberg,1,5108,6845707,6802594,6807223,-7.5,Mittelberg
+Threshold 2000,Dornbirn,1,51876,87656398,87022596,87090648,-10.9,Dornbirn
+Threshold 2000,Hohenems,1,17319,21267080,21115939,21132167,-7.8,Hohenems
+Threshold 2000,Lustenau,1,24223,35688735,35435066,35462302,-9.3,Lustenau
+Threshold 2000,Altach,1,6999,7325504,7266430,7272773,-7.5,Altach
+Threshold 2000,Düns,5,2383,2498977,2478863,2481023,-7.5,Düns;Dünserberg;Röns;Schnifis;Übersaxen
+Threshold 2000,Feldkirch,1,36384,53606033,53225010,53265921,-9.3,Feldkirch
+Threshold 2000,Frastanz,1,6669,6990012,6933723,6939767,-7.5,Frastanz
+Threshold 2000,Fraxern,3,3499,3666253,3636720,3639891,-7.5,Fraxern;Viktorsberg;Weiler
+Threshold 2000,Göfis,1,3317,3470962,3442965,3445971,-7.5,Göfis
+Threshold 2000,Götzis,1,12231,15019208,14912469,14923930,-7.8,Götzis
+Threshold 2000,Klaus,1,3055,3201489,3175703,3178472,-7.5,Klaus
+Threshold 2000,Koblach,1,4896,5123252,5081928,5086365,-7.5,Koblach
+Threshold 2000,Laterns,2,4124,4356424,4322516,4326254,-7.3,Laterns;Zwischenwasser
+Threshold 2000,Mäder,1,4217,4412736,4377143,4380965,-7.5,Mäder
+Threshold 2000,Meiningen,1,2480,2595111,2574179,2576427,-7.5,Meiningen
+Threshold 2000,Rankweil,1,12172,14946758,14840534,14851940,-7.8,Rankweil
+Threshold 2000,Röthis,2,4934,5168443,5126798,5131270,-7.5,Röthis;Sulz
+Threshold 2000,Satteins,1,2775,2903804,2880382,2882897,-7.5,Satteins
+Threshold 2000,Schlins,1,2593,2713409,2691523,2693873,-7.5,Schlins
+Threshold 3500,Bartholomäberg,4,6220,6741559,6666813,6675045,-10.7,Bartholomäberg;Lorüns;St. Anton im Montafon;Vandans
+Threshold 3500,Blons,7,3845,4435482,4393564,4398652,-9.6,Blons;Fontanella;Raggal;St. Gerold;Sonntag;Thüringerberg;Damüls
+Threshold 3500,Bludenz,2,15429,18893583,18749908,18771022,-7.9,Bludenz;Stallehr
+Threshold 3500,Bludesch,3,8723,9129075,9022625,9034170,-10.9,Bludesch;Ludesch;Thüringen
+Threshold 3500,Brand,3,4789,5448409,5391273,5397611,-10.6,Brand;Bürs;Bürserberg
+Threshold 3500,Dalaas,4,4962,6280937,6222572,6229139,-10.4,Dalaas;Innerbraz;Klösterle;Lech
+Threshold 3500,Gaschurn,2,3820,5015974,4969863,4974919,-10.7,Gaschurn;St. Gallenkirch
+Threshold 3500,Nenzing,1,6441,6820420,6741154,6749679,-11.0,Nenzing
+Threshold 3500,Nüziders,1,4999,5268543,5207023,5213639,-11.0,Nüziders
+Threshold 3500,Schruns,3,7078,8124473,8039168,8048536,-10.7,Schruns;Silbertal;Tschagguns
+Threshold 3500,Alberschwende,2,3854,4054980,4007551,4012652,-11.0,Alberschwende;Buch
+Threshold 3500,Andelsbuch,2,4556,4845162,4789993,4796023,-10.8,Andelsbuch;Schwarzenberg
+Threshold 3500,Au,9,8818,10266714,10165396,10177067,-10.2,Au;Bezau;Bizau;Mellau;Reuthe;Schnepfau;Schoppernau;Schröcken;Warth
+Threshold 3500,Bildstein,2,4651,4870898,4813661,4819816,-11.0,Bildstein;Schwarzach
+Threshold 3500,Bregenz,1,29643,43674242,43221619,43270297,-13.6,Bregenz
+Threshold 3500,Doren,3,4473,4720661,4667414,4673334,-10.6,Doren;Langen bei Bregenz;Sulzberg
+Threshold 3500,Egg,1,3767,3995124,3948766,3953751,-11.0,Egg
+Threshold 3500,Eichenberg,2,7064,7450324,7364291,7373641,-10.9,Eichenberg;Lochau
+Threshold 3500,Fußach,1,3977,4166146,4117204,4122467,-11.0,Fußach
+Threshold 3500,Gaißau,2,10293,10791954,12508446,12522531,168.1,Gaißau;Höchst
+Threshold 3500,Hard,1,13787,16929917,16754487,16773354,-11.4,Hard
+Threshold 3500,Hittisau,6,7525,8020909,7932803,7942763,-10.4,Hittisau;Krumbach;Langenegg;Lingenau;Riefensberg;Sibratsgfäll
+Threshold 3500,Hörbranz,3,8694,9114698,9008606,9020112,-10.9,Hörbranz;Hohenweiler;Möggers
+Threshold 3500,Kennelbach,2,10780,11296423,13100266,13115018,168.7,Kennelbach;Wolfurt
+Threshold 3500,Lauterach,1,10531,12931672,12797672,12812083,-11.4,Lauterach
+Threshold 3500,Mittelberg,1,5108,6845707,6782846,6789606,-11.0,Mittelberg
+Threshold 3500,Dornbirn,1,51876,87656398,86732278,86831664,-15.9,Dornbirn
+Threshold 3500,Hohenems,1,17319,21267080,21046708,21070408,-11.4,Hohenems
+Threshold 3500,Lustenau,1,24223,35688735,35318871,35358648,-13.6,Lustenau
+Threshold 3500,Altach,1,6999,7325504,7239371,7248634,-11.0,Altach
+Threshold 3500,Düns,7,7751,8116189,8021702,8031960,-10.9,Düns;Dünserberg;Röns;Satteins;Schlins;Schnifis;Übersaxen
+Threshold 3500,Feldkirch,1,36384,53606033,53050480,53110228,-13.6,Feldkirch
+Threshold 3500,Frastanz,2,9986,10460973,12104013,12117673,165.9,Frastanz;Göfis
+Threshold 3500,Fraxern,4,6554,6867742,6787985,6796659,-10.8,Fraxern;Klaus;Viktorsberg;Weiler
+Threshold 3500,Götzis,1,12231,15019208,14863577,14880314,-11.4,Götzis
+Threshold 3500,Koblach,2,7376,7718364,7627591,7637353,-11.0,Koblach;Meiningen
+Threshold 3500,Laterns,2,4124,4356424,4306572,4312030,-10.8,Laterns;Zwischenwasser
+Threshold 3500,Mäder,1,4217,4412736,4360839,4366421,-11.0,Mäder
+Threshold 3500,Rankweil,1,12172,14946758,14791878,14808535,-11.4,Rankweil
+Threshold 3500,Röthis,2,4934,5168443,5107723,5114253,-11.0,Röthis;Sulz
+Threshold 5000,Bartholomäberg,4,6220,6741559,6425903,6506364,-37.8,Bartholomäberg;Lorüns;St. Anton im Montafon;Vandans
+Threshold 5000,Blons,10,12568,13564557,14769808,14937904,109.3,Blons;Bludesch;Fontanella;Ludesch;Raggal;St. Gerold;Sonntag;Thüringen;Thüringerberg;Damüls
+Threshold 5000,Bludenz,10,30179,35891471,42552870,43037242,236.8,Bludenz;Brand;Bürs;Bürserberg;Dalaas;Innerbraz;Klösterle;Lech;Nüziders;Stallehr
+Threshold 5000,Gaschurn,5,10898,13140447,12807238,12952998,-17.2,Gaschurn;St. Gallenkirch;Schruns;Silbertal;Tschagguns
+Threshold 5000,Nenzing,1,6441,6820420,6491685,6575004,-38.1,Nenzing
+Threshold 5000,Alberschwende,5,12177,12895266,14310308,14473175,129.6,Alberschwende;Andelsbuch;Buch;Egg;Schwarzenberg
+Threshold 5000,Au,10,13926,17112422,16365718,16551978,-40.2,Au;Bezau;Bizau;Mellau;Mittelberg;Reuthe;Schnepfau;Schoppernau;Schröcken;Warth
+Threshold 5000,Bildstein,4,15431,16167321,18134381,18340770,140.8,Bildstein;Kennelbach;Schwarzach;Wolfurt
+Threshold 5000,Bregenz,1,29643,43674242,41797102,42272870,-47.3,Bregenz
+Threshold 5000,Doren,9,11998,12741571,14099949,14260421,126.6,Doren;Hittisau;Krumbach;Langen bei Bregenz;Langenegg;Lingenau;Riefensberg;Sibratsgfäll;Sulzberg
+Threshold 5000,Eichenberg,2,7064,7450324,7090692,7182070,-38.0,Eichenberg;Lochau
+Threshold 5000,Fußach,3,14270,14958100,16769984,16960845,140.3,Fußach;Gaißau;Höchst
+Threshold 5000,Hard,1,13787,16929917,16202366,16386767,-39.4,Hard
+Threshold 5000,Hörbranz,3,8694,9114698,8671874,8784338,-38.0,Hörbranz;Hohenweiler;Möggers
+Threshold 5000,Lauterach,1,10531,12931672,12375943,12516794,-39.4,Lauterach
+Threshold 5000,Dornbirn,1,51876,87656398,83823847,84795221,-55.2,Dornbirn
+Threshold 5000,Hohenems,1,17319,21267080,20353143,20584784,-39.4,Hohenems
+Threshold 5000,Lustenau,1,24223,35688735,34154815,34543593,-47.3,Lustenau
+Threshold 5000,Altach,2,11216,11738240,13180949,13330962,142.0,Altach;Mäder
+Threshold 5000,Düns,7,7751,8116189,7721494,7821759,-38.0,Düns;Dünserberg;Röns;Satteins;Schlins;Schnifis;Übersaxen
+Threshold 5000,Feldkirch,1,36384,53606033,51302019,51885980,-47.3,Feldkirch
+Threshold 5000,Frastanz,2,9986,10460973,11704275,11837782,137.9,Frastanz;Göfis
+Threshold 5000,Fraxern,4,6554,6867742,6534139,6618920,-38.0,Fraxern;Klaus;Viktorsberg;Weiler
+Threshold 5000,Götzis,1,12231,15019208,14373768,14537357,-39.4,Götzis
+Threshold 5000,Koblach,2,7376,7718364,7341907,7437322,-38.1,Koblach;Meiningen
+Threshold 5000,Laterns,4,9058,9524867,9083965,9201392,-35.7,Laterns;Röthis;Sulz;Zwischenwasser
+Threshold 5000,Rankweil,1,12172,14946758,14304432,14467232,-39.4,Rankweil
+official planning region,Montafon,8,16817,19567035,18408011,19140786,-25.3,Bartholomäberg;Gaschurn;St. Anton im Montafon;St. Gallenkirch;Schruns;Silbertal;Tschagguns;Vandans
+official planning region,Blumenegg/Großes Walsertal,9,12216,12929480,13371723,13904016,79.8,Blons;Bludesch;Fontanella;Ludesch;Raggal;St. Gerold;Sonntag;Thüringen;Thüringerberg
+official planning region,Raum Bludenz,7,25518,29925506,33513166,34847456,192.9,Bludenz;Brand;Bürs;Bürserberg;Lorüns;Nüziders;Stallehr
+official planning region,Klostertal/Arlberg,4,4962,6280937,5643657,5852769,-86.3,Dalaas;Innerbraz;Klösterle;Lech
+official planning region,Unterer Walgau,9,23554,24744620,30933816,32165411,315.1,Nenzing;Düns;Dünserberg;Frastanz;Göfis;Röns;Satteins;Schlins;Schnifis
+official planning region,Bregenzerwald/Mittelwald,4,11588,12278927,12684309,13189239,78.6,Alberschwende;Andelsbuch;Egg;Schwarzenberg
+official planning region,Bregenzerwald/Hinterwald,10,9170,10901791,9780130,10169011,-79.9,Au;Bezau;Bizau;Damüls;Mellau;Reuthe;Schnepfau;Schoppernau;Schröcken;Warth
+official planning region,Hofsteig,7,40338,46645249,52976491,55085691,209.2,Bildstein;Buch;Hard;Kennelbach;Lauterach;Schwarzach;Wolfurt
+official planning region,Bregenz,1,29643,43674242,38930590,40480568,-107.7,Bregenz
+official planning region,Bregenzerwald/Vorderwald,9,11998,12741571,13133098,13655893,76.2,Doren;Hittisau;Krumbach;Langen bei Bregenz;Langenegg;Lingenau;Riefensberg;Sibratsgfäll;Sulzberg
+official planning region,Leiblachtal,5,15758,16565023,17248822,17935453,87.0,Eichenberg;Hörbranz;Hohenweiler;Lochau;Möggers
+official planning region,Rheindelta,3,14270,14958100,15620046,16241840,90.0,Fußach;Gaißau;Höchst
+official planning region,Kleinwalsertal,1,5108,6845707,6186897,6402162,-86.8,Mittelberg
+official planning region,Dornbirn,1,51876,87656398,77971300,81135884,-125.7,Dornbirn
+official planning region,Hohenems,1,17319,21267080,18957504,19712153,-89.8,Hohenems
+official planning region,Lustenau,1,24223,35688735,31812424,33079000,-107.7,Lustenau
+official planning region,Kummenberg,4,28343,31880700,37223280,38705284,240.8,Altach;Götzis;Koblach;Mäder
+official planning region,Feldkirch,1,36384,53606033,47783644,49686097,-107.7,Feldkirch
+official planning region,Rankweil/Vorderland,11,30888,34587442,40565666,42180743,245.8,Fraxern;Klaus;Laterns;Meiningen;Rankweil;Röthis;Sulz;Übersaxen;Viktorsberg;Weiler;Zwischenwasser
+official region,Montafon,10,17408,20185467,16872098,18842940,-77.1,Bartholomäberg;Gaschurn;Lorüns;St. Anton im Montafon;St. Gallenkirch;Schruns;Silbertal;Stallehr;Tschagguns;Vandans
+official region,Großes Walsertal,6,3493,3800405,2930778,3313252,-139.5,Blons;Fontanella;Raggal;St. Gerold;Sonntag;Thüringerberg
+official region,Walgau,17,57204,63180768,75937354,85004222,381.5,Bludenz;Bludesch;Brand;Bürs;Bürserberg;Ludesch;Nenzing;Nüziders;Thüringen;Düns;Dünserberg;Frastanz;Göfis;Röns;Satteins;Schlins;Schnifis
+official region,Arlberg und Klostertal,4,4962,6280937,5041891,5585217,-140.2,Dalaas;Innerbraz;Klösterle;Lech
+official region,Bregenzerwald,22,31225,34318177,36309812,40551967,199.6,Alberschwende;Andelsbuch;Au;Bezau;Bizau;Damüls;Doren;Egg;Hittisau;Krumbach;Langenegg;Lingenau;Mellau;Reuthe;Riefensberg;Schnepfau;Schoppernau;Schröcken;Schwarzenberg;Sibratsgfäll;Sulzberg;Warth
+official region,Rheintal,31,274815,371568090,364812321,408370662,133.9,Bildstein;Bregenz;Buch;Fußach;Gaißau;Hard;Höchst;Kennelbach;Langen bei Bregenz;Lauterach;Schwarzach;Wolfurt;Dornbirn;Hohenems;Lustenau;Altach;Feldkirch;Fraxern;Götzis;Klaus;Koblach;Laterns;Mäder;Meiningen;Rankweil;Röthis;Sulz;Übersaxen;Viktorsberg;Weiler;Zwischenwasser
+official region,Leiblachtal,5,15758,16565023,15272893,17056931,31.2,Eichenberg;Hörbranz;Hohenweiler;Lochau;Möggers
+official region,Kleinwalsertal,1,5108,6845707,5567425,6126737,-140.8,Mittelberg
+official district,Bezirk Bludenz,29,65954,75523378,84096015,96451497,317.3,Bartholomäberg;Blons;Bludenz;Bludesch;Brand;Bürs;Bürserberg;Dalaas;Fontanella;Gaschurn;Innerbraz;Klösterle;Lech;Lorüns;Ludesch;Nenzing;Nüziders;Raggal;St. Anton im Montafon;St. Gallenkirch;St. Gerold;Schruns;Silbertal;Sonntag;Stallehr;Thüringen;Thüringerberg;Tschagguns;Vandans
+official district,Bezirk Bregenz,40,137873,164610610,175797827,201626242,268.5,Alberschwende;Andelsbuch;Au;Bezau;Bildstein;Bizau;Bregenz;Buch;Damüls;Doren;Egg;Eichenberg;Fußach;Gaißau;Hard;Hittisau;Höchst;Hörbranz;Hohenweiler;Kennelbach;Krumbach;Langen bei Bregenz;Langenegg;Lauterach;Lingenau;Lochau;Mellau;Mittelberg;Möggers;Reuthe;Riefensberg;Schnepfau;Schoppernau;Schröcken;Schwarzach;Schwarzenberg;Sibratsgfäll;Sulzberg;Warth;Wolfurt
+official district,Bezirk Dornbirn,3,93418,144612213,119114558,136615003,-85.6,Dornbirn;Hohenems;Lustenau
+official district,Bezirk Feldkirch,24,112728,137998373,143736174,164854054,238.2,Altach;Düns;Dünserberg;Feldkirch;Frastanz;Fraxern;Göfis;Götzis;Klaus;Koblach;Laterns;Mäder;Meiningen;Rankweil;Röns;Röthis;Satteins;Schlins;Schnifis;Sulz;Übersaxen;Viktorsberg;Weiler;Zwischenwasser

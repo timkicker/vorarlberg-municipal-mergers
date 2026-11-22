@@ -1,0 +1,13 @@
+Second home levy: category of the merged municipality (second_homes.py)
+Source: list of the state ZAG 2027 (reference date 31.12.2025), ZWAbgG LGBl. 59/2023 as amended by 27/2024, § 5(1)
+municipalities in the list: 96; control of the thresholds against the category in the list, deviations: 0 []
+categories 2027: A 32, B 33, C 31; different from 2026: ['Bezau', 'Fraxern', 'Göfis', 'Viktorsberg']
+dwellings without a main residence in total: 41,649
+
+Partition | municipalities with a lower category | their dwellings without main residence | with a higher category | upper bound of the loss m euro (dwellings x difference of the annual maximum) | examples lower
+  Threshold 2000 | 6 | 653 | 11 | 0.5 | Laterns A→B (194), Kennelbach B→C (149), Übersaxen A→B (121), Eichenberg A→B (102), Dünserberg A→B (45)
+  Threshold 3500 | 10 | 1,617 | 15 | 1.2 | Hittisau A→B (424), Thüringen B→C (216), Riefensberg A→B (194), Laterns A→B (194), Kennelbach B→C (149)
+  Threshold 5000 | 21 | 6,777 | 12 | 4.5 | Lech A→B (1,599), Egg A→B (726), Schwarzenberg A→B (616), Hittisau A→B (424), Dalaas A→B (413)
+  official planning region | 18 | 4,571 | 13 | 3.4 | Egg A→B (726), Schwarzenberg A→B (616), Hittisau A→B (424), Brand A→B (400), Bürserberg A→B (392)
+  official region | 12 | 5,109 | 25 | 4.5 | Feldkirch B→C (3,097), Brand A→B (400), Bürserberg A→B (392), Zwischenwasser B→C (286), Laterns A→C (194)
+  official district | 38 | 18,201 | 13 | 13.4 | Feldkirch B→C (3,097), Lech A→B (1,599), Mittelberg A→B (1,210), Tschagguns A→B (1,010), Schruns A→B (996)

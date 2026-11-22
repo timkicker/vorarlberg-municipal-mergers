@@ -1,0 +1,30 @@
+Cross-border commuters, commuter atlas 31.10.2024 (cross_border.py)
+
+1. commuters abroad 17,450, employed at place of residence 205,285 (8.5%), out-commuters 139,151 (12.5%)
+
+2. highest shares of the employed at place of residence
+  Meiningen (2,480 inhabitants) | 270 | 20.5%
+  Feldkirch (36,384 inhabitants) | 3,298 | 17.9%
+  Gaißau (1,912 inhabitants) | 163 | 16.2%
+  Mäder (4,217 inhabitants) | 352 | 15.7%
+  Frastanz (6,669 inhabitants) | 455 | 14.2%
+  Koblach (4,896 inhabitants) | 357 | 14.0%
+  Düns (427 inhabitants) | 32 | 13.4%
+  Göfis (3,317 inhabitants) | 222 | 13.0%
+  Satteins (2,775 inhabitants) | 179 | 12.9%
+  Röthis (2,229 inhabitants) | 140 | 12.2%
+  median by size:
+    0 to under 1,000 | 32 | 4.5%
+    1,000 to under 2,000 | 18 | 3.1%
+    2,000 to under 5,000 | 28 | 6.9%
+    5,000 to under 10,000 | 8 | 10.2%
+    from 10,000 | 10 | 7.8%
+
+3. per partition: share per unit (smallest / largest), median of the range within the units with a merger, largest ranges
+  Threshold 3500 | 1.4% / 17.9% | range median 2.8% | Düns 11.0%, Koblach 6.5%, Blons 6.0%
+  Threshold 5000 | 2.6% / 17.9% | range median 3.9% | Düns 11.0%, Blons 8.9%, Au 8.2%
+  official planning region | 1.4% / 17.9% | range median 5.2% | Rankweil/Vorderland 14.8%, Unterer Walgau 11.8%, Blumenegg/Großes Walsertal 7.2%
+
+4. out-commuters left out by ratio.py
+  abroad 17,450 (12.5%), other states 4,559 (3.3%), together 15.8% of out-commuters
+  municipalities with more than 25 % of out-commuters left out: 4: Mittelberg 71%, Lech 48%, Feldkirch 33%, Meiningen 25%
